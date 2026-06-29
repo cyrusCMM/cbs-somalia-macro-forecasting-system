@@ -37,3 +37,24 @@ Forecasts are generated in Python.
 - Macro Framework
 - Scenario Analysis
 - Reports
+
+
+## v4 updates
+
+- Forecast horizon extended to 2035.
+- Added `shock_engine.py` for simultaneous macro shock bundles.
+- Scenario Analysis now transmits shocks across real, external, fiscal and monetary blocks.
+- Scenario page now compares baseline versus scenario for GDP, demand, fiscal balance, debt, current account, M2 and private credit.
+
+
+## v5 updates
+
+- Split aggregate demand shock into:
+  - Household consumption shock
+  - Private investment shock
+  - Government consumption shock
+  - Public investment shock
+  - Export demand shock
+  - Import demand shock
+- Scenario Analysis page now shows component-level real economy shocks.
+- Demand shocks now transmit separately into GDP, imports, fiscal revenue, expenditure, debt, current account, M2 and private credit.
