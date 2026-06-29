@@ -1,0 +1,2941 @@
+Block,Variable,Code,Type,Unit,Source,Year,Value
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1990,1031282081.1668346
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1991,717974929.7631578
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1992,709297578.5
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1993,1260132955.787459
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1994,1481205097.9811323
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1995,1534756134.5502186
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1996,1792234297.391936
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1997,2191749013.581238
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1998,2962047564.4165072
+Real,Nominal GDP,NGDP,Collect,USD,CBS,1999,3045751527.660048
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2000,3412797450.201118
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2001,2252847464.6860847
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2002,2192684134.5927277
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2003,2836724351.561596
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2004,3859592813.1025543
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2005,4683246454.100484
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2006,5026743282.042513
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2007,5430713728.89074
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2008,5913620292.905734
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2009,2948594552.4495163
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2010,2687807003.73935
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2011,2906000096.932491
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2012,4364670159.995777
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2013,5062881600.001038
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2014,5728399719.999584
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2015,6152149099.999415
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2016,6613743069.999124
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2017,7621501710.001204
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2018,7873000000
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2019,8656000000
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2020,8628000000
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2021,9483000000
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2022,10203000000
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2023,10958000000
+Real,Nominal GDP,NGDP,Collect,USD,CBS,2024,11967000000
+Real,Real GDP,RGDP,Collect,USD,CBS,1990,1837281328.3016276
+Real,Real GDP,RGDP,Collect,USD,CBS,1991,1891491615.5031128
+Real,Real GDP,RGDP,Collect,USD,CBS,1992,1730935688.5585237
+Real,Real GDP,RGDP,Collect,USD,CBS,1993,1800010346.159156
+Real,Real GDP,RGDP,Collect,USD,CBS,1994,1478762688.889167
+Real,Real GDP,RGDP,Collect,USD,CBS,1995,1537774139.7940428
+Real,Real GDP,RGDP,Collect,USD,CBS,1996,1661503678.5180218
+Real,Real GDP,RGDP,Collect,USD,CBS,1997,1681117593.9700406
+Real,Real GDP,RGDP,Collect,USD,CBS,1998,1791844290.8819463
+Real,Real GDP,RGDP,Collect,USD,CBS,1999,1922976751.0585723
+Real,Real GDP,RGDP,Collect,USD,CBS,2000,2059706442.1926818
+Real,Real GDP,RGDP,Collect,USD,CBS,2001,2206158044.1253147
+Real,Real GDP,RGDP,Collect,USD,CBS,2002,2374493799.8039145
+Real,Real GDP,RGDP,Collect,USD,CBS,2003,2555674023.5943284
+Real,Real GDP,RGDP,Collect,USD,CBS,2004,2737390479.443584
+Real,Real GDP,RGDP,Collect,USD,CBS,2005,2932027546.4602003
+Real,Real GDP,RGDP,Collect,USD,CBS,2006,3122209723.107455
+Real,Real GDP,RGDP,Collect,USD,CBS,2007,3331221429.826634
+Real,Real GDP,RGDP,Collect,USD,CBS,2008,3554225115.7657537
+Real,Real GDP,RGDP,Collect,USD,CBS,2009,3792157453.2422237
+Real,Real GDP,RGDP,Collect,USD,CBS,2010,4046017818.7335653
+Real,Real GDP,RGDP,Collect,USD,CBS,2011,4316872490.494444
+Real,Real GDP,RGDP,Collect,USD,CBS,2012,4605859127.184689
+Real,Real GDP,RGDP,Collect,USD,CBS,2013,5110628982.787013
+Real,Real GDP,RGDP,Collect,USD,CBS,2014,5569461554.681685
+Real,Real GDP,RGDP,Collect,USD,CBS,2015,6152149099.999415
+Real,Real GDP,RGDP,Collect,USD,CBS,2016,6584944951.37229
+Real,Real GDP,RGDP,Collect,USD,CBS,2017,7555288980.077212
+Real,Real GDP,RGDP,Collect,USD,CBS,2018,7710498420.373012
+Real,Real GDP,RGDP,Collect,USD,CBS,2019,7926418061.751352
+Real,Real GDP,RGDP,Collect,USD,CBS,2020,7707287719.385974
+Real,Real GDP,RGDP,Collect,USD,CBS,2021,7972973226.063412
+Real,Real GDP,RGDP,Collect,USD,CBS,2022,8189695542.688511
+Real,Real GDP,RGDP,Collect,USD,CBS,2023,8531635197.808113
+Real,Real GDP,RGDP,Collect,USD,CBS,2024,8882404280.64207
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1990,848609715.7
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1991,567488456.8
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1992,571136728.8
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1993,992633768.3
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1994,1183565176
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1995,1244948210
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1996,1476553666
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1997,1834826591
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1998,2537342507
+Real,Nominal private consumption,NPC,Collect,USD,CBS,1999,2650076587
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2000,3018154070
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2001,2032496432
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2002,2021210679
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2003,2708423433
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2004,3778272298
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2005,4674233395
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2006,5178131075
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2007,5811828250
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2008,6585507176
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2009,3439463662
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2010,3307350679
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2011,3809464026
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2012,5710264734
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2013,6622575638
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2014,7630073572
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2015,8471484725
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2016,9277000000
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2017,10343000000
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2018,9684000000
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2019,10558000000
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2020,10827000000
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2021,11539000000
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2022,12683000000
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2023,14078000000
+Real,Nominal private consumption,NPC,Collect,USD,CBS,2024,15961000000
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1990,104490292.1
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1991,54501987.6
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1992,51930340.43
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1993,79750283.3
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1994,94593137.62
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1995,94198485.06
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1996,105765817
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1997,124427245.2
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1998,169850190.3
+Real,Nominal government consumption,NGC,Collect,USD,CBS,1999,165529327.5
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2000,175908779
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2001,112152190.3
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2002,105587064.8
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2003,137203730.3
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2004,181743239.1
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2005,208832780.8
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2006,219140545.5
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2007,234307064.7
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2008,250258617.6
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2009,123846743
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2010,112852788
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2011,122966448.1
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2012,174534053.3
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2013,270954045.2
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2014,318149315.6
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2015,326960425.1
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2016,391000000
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2017,486000000
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2018,495000000
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2019,529000000
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2020,595000000
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2021,676000000
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2022,759000000
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2023,785000000
+Real,Nominal government consumption,NGC,Collect,USD,CBS,2024,931000000
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1990,244377736.9
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1991,131131495.3
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1992,127287757.7
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1993,242495649.2
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1994,254569657.9
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1995,257697640.6
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1996,293984638.6
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1997,351345287.4
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1998,448608901.1
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,1999,456380833.3
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2000,506279751.3
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2001,327579601.2
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2002,312993096.4
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2003,356321149.2
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2004,475568136.7
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2005,637460939
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2006,678240052.2
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2007,703564822.3
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2008,786211475.6
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2009,392826896.4
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2010,360842605.3
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2011,401472454.8
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2012,577238022.7
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2013,636326292
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2014,701247697.3
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2015,773044455.8
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2016,850000000
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2017,1054000000
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2018,1268000000
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2019,1392000000
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2020,1381000000
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2021,1705000000
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2022,2413000000
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2023,2587000000
+Real,Nominal investment  (gross fixed capital formation ),NINV,Collect,USD,CBS,2024,3201000000
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1990,150014572.407044
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1991,97465604.35153781
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1992,129825444.05258198
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1993,121084226.624612
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1994,151913700.745352
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1995,172017718.170655
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1996,192210225.563246
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1997,157327515.938676
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1998,126747051.151324
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,1999,116329617.186709
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2000,122923811
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2001,83644239
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2002,125848094
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2003,153447112
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2004,174225830
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2005,205297119
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2006,319093273
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2007,166501595
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2008,184937076
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2009,249330194
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2010,368018045
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2011,447161232
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2012,481009689
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2013,616260586
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2014,688605192
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2015,675279888
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2016,622226928
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2017,468091333
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2018,525381297
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2019,560035540
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2020,501795400
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2021,501522568
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2022,731810104
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2023,992041563
+Real,Nominal exports of G&S,NXGS,Collect,USD,CBS,2024,3735000000
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1990,373923738.970947
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1991,140604733.53651598
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1992,201679240.65690097
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1993,274737160.09932
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1994,266331800.61628002
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1995,219384588.565792
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1996,257937251.11455
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1997,264660231.41089898
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1998,227495888.063913
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,1999,253643148.23717502
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2000,223074045
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2001,208959077
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2002,245002957
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2003,244799303
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2004,306351230
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2005,371901420
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2006,522004582
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2007,536107097.99999994
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2008,836917626
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2009,756555471
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2010,1062458167.9999999
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2011,1486247289
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2012,1642831783
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2013,1504088682
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2014,1695267782
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2015,1834559212
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2016,2077718766.9999998
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2017,2587224439
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2018,2653197633
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2019,3210447368
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2020,3504242651
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2021,3838889570
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2022,4154590664.9999995
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2023,4020170723
+Real,Nominal imports of G&S,NMGS,Collect,USD,CBS,2024,11861000000
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1990,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1991,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1992,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1993,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1994,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1995,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1996,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1997,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1998,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,1999,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2000,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2001,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2002,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2003,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2004,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2005,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2006,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2007,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2008,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2009,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2010,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2011,
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2012,95.00613359069345
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2013,97.66651903270385
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2014,100
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2015,100.9126149826323
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2016,100.9367671256229
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2017,104.9304245539246
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2018,109.4067048465265
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2019,114.5581814565651
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2020,119.2701081775134
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2021,124.7862318739955
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2022,133.2458352341088
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2023,141.3791666666667
+Real,CPI average,CPI_AVG,Collect,Index,CBS,2024,149.2941666666667
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1990,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1991,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1992,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1993,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1994,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1995,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1996,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1997,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1998,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,1999,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2000,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2001,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2002,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2003,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2004,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2005,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2006,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2007,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2008,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2009,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2010,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2011,
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2012,96.028
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2013,98.717
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2014,100
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2015,100.292
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2016,101.509
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2017,107.692
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2018,111.16
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2019,114.636
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2020,120.179
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2021,126.99
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2022,134.679
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2023,143.573
+Real,CPI end-period,CPI_EOP,Collect,Index,CBS,2024,151.575
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1990,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1991,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1992,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1993,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1994,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1995,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1996,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1997,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1998,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,1999,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2000,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2001,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2002,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2003,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2004,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2005,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2006,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2007,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2008,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2009,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2010,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2011,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2012,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2013,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2014,
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2015,72876207.48622222
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2016,76313771.56
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2017,92791578.98
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2018,100334381.8
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2019,107027798.01
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2020,91054110.35000001
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2021,108974991
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2022,116169148
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2023,154082799
+Fiscal,Import duty,IMP_DUTY,Collect,USD,CBS,2024,168875350
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1990,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1991,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1992,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1993,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1994,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1995,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1996,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1997,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1998,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,1999,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2000,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2001,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2002,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2003,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2004,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2005,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2006,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2007,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2008,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2009,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2010,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2011,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2012,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2013,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2014,
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2015,0
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2016,0
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2017,0
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2018,0
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2019,0
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2020,0
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2021,0
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2022,0
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2023,0
+Fiscal,Import sales tax,IMP_SALES,Collect,USD,CBS,2024,0
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1990,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1991,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1992,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1993,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1994,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1995,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1996,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1997,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1998,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,1999,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2000,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2001,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2002,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2003,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2004,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2005,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2006,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2007,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2008,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2009,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2010,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2011,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2012,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2013,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2014,
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2015,30169792.81
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2016,24111207.26888888
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2017,30611801.50222222
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2018,44473234.69555555
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2019,74939155.66999999
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2020,71704627.76
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2021,66794410.31
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2022,80977902.92
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2023,102123040.2
+Fiscal,Domestic sales tax,DOM_SALES,Collect,USD,CBS,2024,102021110.51
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1990,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1991,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1992,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1993,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1994,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1995,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1996,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1997,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1998,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,1999,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2000,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2001,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2002,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2003,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2004,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2005,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2006,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2007,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2008,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2009,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2010,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2011,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2012,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2013,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2014,
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2015,0
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2016,0
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2017,0
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2018,0
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2019,0
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2020,0
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2021,0
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2022,0
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2023,0
+Fiscal,Excise tax,EXCISE,Collect,USD,CBS,2024,0
+Fiscal,PIT,PIT,Collect,USD,CBS,1990,
+Fiscal,PIT,PIT,Collect,USD,CBS,1991,
+Fiscal,PIT,PIT,Collect,USD,CBS,1992,
+Fiscal,PIT,PIT,Collect,USD,CBS,1993,
+Fiscal,PIT,PIT,Collect,USD,CBS,1994,
+Fiscal,PIT,PIT,Collect,USD,CBS,1995,
+Fiscal,PIT,PIT,Collect,USD,CBS,1996,
+Fiscal,PIT,PIT,Collect,USD,CBS,1997,
+Fiscal,PIT,PIT,Collect,USD,CBS,1998,
+Fiscal,PIT,PIT,Collect,USD,CBS,1999,
+Fiscal,PIT,PIT,Collect,USD,CBS,2000,
+Fiscal,PIT,PIT,Collect,USD,CBS,2001,
+Fiscal,PIT,PIT,Collect,USD,CBS,2002,
+Fiscal,PIT,PIT,Collect,USD,CBS,2003,
+Fiscal,PIT,PIT,Collect,USD,CBS,2004,
+Fiscal,PIT,PIT,Collect,USD,CBS,2005,
+Fiscal,PIT,PIT,Collect,USD,CBS,2006,
+Fiscal,PIT,PIT,Collect,USD,CBS,2007,
+Fiscal,PIT,PIT,Collect,USD,CBS,2008,
+Fiscal,PIT,PIT,Collect,USD,CBS,2009,
+Fiscal,PIT,PIT,Collect,USD,CBS,2010,
+Fiscal,PIT,PIT,Collect,USD,CBS,2011,
+Fiscal,PIT,PIT,Collect,USD,CBS,2012,
+Fiscal,PIT,PIT,Collect,USD,CBS,2013,
+Fiscal,PIT,PIT,Collect,USD,CBS,2014,
+Fiscal,PIT,PIT,Collect,USD,CBS,2015,1877378.26529
+Fiscal,PIT,PIT,Collect,USD,CBS,2016,2342935.1187
+Fiscal,PIT,PIT,Collect,USD,CBS,2017,3408976.1178
+Fiscal,PIT,PIT,Collect,USD,CBS,2018,8540991.22734
+Fiscal,PIT,PIT,Collect,USD,CBS,2019,11560591.95489
+Fiscal,PIT,PIT,Collect,USD,CBS,2020,15992695.5804
+Fiscal,PIT,PIT,Collect,USD,CBS,2021,15631468.091019
+Fiscal,PIT,PIT,Collect,USD,CBS,2022,18475618.27319999
+Fiscal,PIT,PIT,Collect,USD,CBS,2023,24140173.662
+Fiscal,PIT,PIT,Collect,USD,CBS,2024,35808968.18664
+Fiscal,CIT,CIT,Collect,USD,CBS,1990,
+Fiscal,CIT,CIT,Collect,USD,CBS,1991,
+Fiscal,CIT,CIT,Collect,USD,CBS,1992,
+Fiscal,CIT,CIT,Collect,USD,CBS,1993,
+Fiscal,CIT,CIT,Collect,USD,CBS,1994,
+Fiscal,CIT,CIT,Collect,USD,CBS,1995,
+Fiscal,CIT,CIT,Collect,USD,CBS,1996,
+Fiscal,CIT,CIT,Collect,USD,CBS,1997,
+Fiscal,CIT,CIT,Collect,USD,CBS,1998,
+Fiscal,CIT,CIT,Collect,USD,CBS,1999,
+Fiscal,CIT,CIT,Collect,USD,CBS,2000,
+Fiscal,CIT,CIT,Collect,USD,CBS,2001,
+Fiscal,CIT,CIT,Collect,USD,CBS,2002,
+Fiscal,CIT,CIT,Collect,USD,CBS,2003,
+Fiscal,CIT,CIT,Collect,USD,CBS,2004,
+Fiscal,CIT,CIT,Collect,USD,CBS,2005,
+Fiscal,CIT,CIT,Collect,USD,CBS,2006,
+Fiscal,CIT,CIT,Collect,USD,CBS,2007,
+Fiscal,CIT,CIT,Collect,USD,CBS,2008,
+Fiscal,CIT,CIT,Collect,USD,CBS,2009,
+Fiscal,CIT,CIT,Collect,USD,CBS,2010,
+Fiscal,CIT,CIT,Collect,USD,CBS,2011,
+Fiscal,CIT,CIT,Collect,USD,CBS,2012,
+Fiscal,CIT,CIT,Collect,USD,CBS,2013,
+Fiscal,CIT,CIT,Collect,USD,CBS,2014,
+Fiscal,CIT,CIT,Collect,USD,CBS,2015,18963.41682111111
+Fiscal,CIT,CIT,Collect,USD,CBS,2016,23666.0113
+Fiscal,CIT,CIT,Collect,USD,CBS,2017,34434.1022
+Fiscal,CIT,CIT,Collect,USD,CBS,2018,86272.63866000001
+Fiscal,CIT,CIT,Collect,USD,CBS,2019,116773.65611
+Fiscal,CIT,CIT,Collect,USD,CBS,2020,161542.3796
+Fiscal,CIT,CIT,Collect,USD,CBS,2021,157893.617081
+Fiscal,CIT,CIT,Collect,USD,CBS,2022,186622.4068
+Fiscal,CIT,CIT,Collect,USD,CBS,2023,243840.138
+Fiscal,CIT,CIT,Collect,USD,CBS,2024,361706.7493600001
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1990,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1991,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1992,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1993,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1994,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1995,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1996,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1997,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1998,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,1999,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2000,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2001,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2002,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2003,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2004,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2005,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2006,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2007,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2008,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2009,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2010,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2011,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2012,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2013,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2014,
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2015,0
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2016,0
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2017,0
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2018,0
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2019,0
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2020,0
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2021,0
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2022,0
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2023,0
+Fiscal,Stamp tax,STAMP,Collect,USD,N/A,2024,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1990,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1991,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1992,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1993,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1994,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1995,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1996,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1997,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1998,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,1999,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2000,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2001,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2002,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2003,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2004,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2005,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2006,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2007,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2008,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2009,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2010,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2011,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2012,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2013,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2014,
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2015,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2016,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2017,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2018,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2019,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2020,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2021,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2022,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2023,0
+Fiscal,Vehicle tax,VEH_TAX,Collect,USD,N/A,2024,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1990,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1991,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1992,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1993,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1994,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1995,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1996,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1997,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1998,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,1999,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2000,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2001,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2002,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2003,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2004,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2005,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2006,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2007,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2008,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2009,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2010,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2011,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2012,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2013,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2014,
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2015,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2016,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2017,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2018,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2019,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2020,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2021,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2022,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2023,0
+Fiscal,Registration tax,REG_TAX,Collect,USD,N/A,2024,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1990,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1991,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1992,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1993,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1994,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1995,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1996,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1997,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1998,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,1999,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2000,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2001,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2002,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2003,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2004,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2005,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2006,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2007,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2008,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2009,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2010,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2011,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2012,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2013,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2014,
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2015,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2016,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2017,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2018,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2019,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2020,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2021,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2022,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2023,0
+Fiscal,Road tax,ROAD_TAX,Collect,USD,N/A,2024,0
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1990,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1991,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1992,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1993,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1994,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1995,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1996,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1997,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1998,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,1999,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2000,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2001,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2002,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2003,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2004,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2005,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2006,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2007,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2008,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2009,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2010,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2011,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2012,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2013,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2014,
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2015,4537712.922777777
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2016,7005122.93991111
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2017,6894323.405033332
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2018,7906874.860444444
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2019,11078646.49141111
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2020,11027256.94795556
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2021,14573147.52577778
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2022,14081787.92064444
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2023,7550125.636133333
+Fiscal,Other taxes,OTHER_TAX,Collect,USD,CBS,2024,10297946.629954
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1990,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1991,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1992,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1993,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1994,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1995,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1996,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1997,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1998,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,1999,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2000,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2001,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2002,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2003,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2004,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2005,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2006,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2007,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2008,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2009,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2010,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2011,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2012,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2013,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2014,
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2015,30169792.81
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2016,24111207.26888888
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2017,30611801.50222222
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2018,44473234.69555555
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2019,74939155.66999999
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2020,71704627.76
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2021,66794410.31
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2022,80977902.92
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2023,102185217.81
+Fiscal,Non-tax revenue,NONTAX,Collect,USD,CBS,2024,102589874.9
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1990,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1991,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1992,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1993,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1994,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1995,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1996,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1997,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1998,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,1999,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2000,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2001,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2002,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2003,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2004,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2005,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2006,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2007,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2008,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2009,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2010,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2011,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2012,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2013,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2014,
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2015,26949145.42
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2016,55301548.68
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2017,105612544.32
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2018,121701143.96
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2019,111583887.14
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2020,285493116.52
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2021,146975019.35
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2022,459241797.28
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2023,408531180.23
+Fiscal,Grants,GRANTS,Collect,USD,CBS,2024,543361926.93
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1990,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1991,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1992,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1993,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1994,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1995,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1996,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1997,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1998,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,1999,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2000,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2001,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2002,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2003,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2004,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2005,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2006,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2007,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2008,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2009,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2010,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2011,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2012,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2013,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2014,
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2015,55406893.01
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2016,79314010.46000001
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2017,128760537.55
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2018,143079564.36
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2019,162857697.6
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2020,227014247.14
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2021,250099403.53
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2022,259578811.39
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2023,292244712.14
+Fiscal,Compensation of employees,WAGES,Collect,USD,CBS,2024,341574738.3200001
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1990,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1991,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1992,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1993,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1994,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1995,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1996,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1997,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1998,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,1999,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2000,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2001,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2002,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2003,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2004,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2005,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2006,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2007,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2008,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2009,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2010,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2011,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2012,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2013,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2014,
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2015,62169799.97533333
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2016,74667648.38666667
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2017,87764661.54
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2018,89513392.74661689
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2019,105952284.9380582
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2020,80687430.29222356
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2021,106055549.263252
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2022,140670110.9266666
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2023,138201058.56
+Fiscal,Goods and services expenditure,GDS_SERV_EXP,Collect,USD,CBS,2024,204503360.8718
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1990,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1991,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1992,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1993,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1994,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1995,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1996,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1997,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1998,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,1999,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2000,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2001,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2002,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2003,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2004,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2005,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2006,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2007,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2008,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2009,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2010,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2011,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2012,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2013,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2014,
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2015,13839502.88111111
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2016,9416649.290000001
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2017,23397523.41
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2018,58352843.34
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2019,48494146.83
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2020,80283380.81999998
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2021,45850522.89
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2022,111242917.45
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2023,126273305.11
+Fiscal,Transfers,TRANSFERS,Collect,USD,CBS,2024,160338802.39
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1990,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1991,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1992,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1993,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1994,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1995,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1996,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1997,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1998,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,1999,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2000,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2001,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2002,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2003,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2004,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2005,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2006,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2007,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2008,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2009,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2010,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2011,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2012,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2013,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2014,
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2015,2000000
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2016,4000000
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2017,6000000
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2018,9000000
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2019,12000000
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2020,14444846.36
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2021,14605117.63
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2022,12690618.19
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2023,13198206.75
+Fiscal,Interest payments,INT_PAY,Collect,USD,CBS,2024,7503730.870000001
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1990,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1991,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1992,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1993,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1994,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1995,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1996,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1997,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1998,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,1999,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2000,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2001,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2002,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2003,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2004,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2005,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2006,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2007,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2008,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2009,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2010,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2011,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2012,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2013,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2014,
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2015,147500
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2016,1558724.5
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2017,1185433.33
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2018,960959.45
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2019,1232573.16
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2020,18560275.55
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2021,16103418.26
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2022,13200987.96
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2023,14407773.01
+Fiscal,Capital expenditure,CAPEX,Collect,USD,CBS,2024,28519394.43
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1990,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1991,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1992,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1993,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1994,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1995,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1996,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1997,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1998,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,1999,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2000,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2001,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2002,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2003,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2004,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2005,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2006,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2007,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2008,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2009,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2010,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2011,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2012,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2013,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2014,
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2015,2596886.42
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2016,2059408.7
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2017,4010343.38
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2018,4106724.67
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2019,412140.25
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2020,923442.86
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2021,2069069.26
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2022,4635963.71
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2023,10387356.24
+Fiscal,Other expenditure,OTHER_EXP,Collect,USD,CBS,2024,23273946.17
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1990,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1991,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1992,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1993,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1994,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1995,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1996,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1997,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1998,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,1999,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2000,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2001,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2002,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2003,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2004,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2005,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2006,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2007,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2008,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2009,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2010,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2011,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2012,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2013,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2014,
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2015,0
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2016,0
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2017,0
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2018,0
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2019,0
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2020,0
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2021,0
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2022,0
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2023,0
+Fiscal,Domestic financing,DOM_FIN,Collect,USD,N/A,2024,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1990,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1991,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1992,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1993,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1994,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1995,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1996,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1997,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1998,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,1999,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2000,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2001,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2002,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2003,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2004,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2005,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2006,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2007,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2008,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2009,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2010,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2011,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2012,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2013,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2014,
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2015,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2016,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2017,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2018,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2019,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2020,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2021,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2022,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2023,0
+Fiscal,External financing,EXT_FIN,Collect,USD,N/A,2024,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1990,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1991,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1992,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1993,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1994,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1995,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1996,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1997,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1998,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,1999,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2000,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2001,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2002,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2003,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2004,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2005,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2006,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2007,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2008,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2009,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2010,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2011,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2012,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2013,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2014,
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2015,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2016,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2017,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2018,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2019,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2020,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2021,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2022,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2023,0
+Fiscal,Government debt,GOV_DEBT,Collect,USD,N/A,2024,0
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1990,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1991,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1992,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1993,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1994,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1995,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1996,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1997,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1998,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,1999,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2000,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2001,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2002,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2003,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2004,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2005,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2006,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2007,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2008,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2009,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2010,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2011,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2012,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2013,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2014,
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2015,109480054.9011111
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2016,109796702.8988
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2017,133741114.1072556
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2018,161341755.222
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2019,204722965.7824111
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2020,189940233.0179555
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2021,206131910.5438778
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2022,229891079.5206445
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2023,288139978.6361334
+Fiscal,Tax revenue,TAXREV,Compute,USD,CBS,2024,317365082.075954
+Fiscal,Total revenue,REV,Compute,USD,CBS,1990,
+Fiscal,Total revenue,REV,Compute,USD,CBS,1991,
+Fiscal,Total revenue,REV,Compute,USD,CBS,1992,
+Fiscal,Total revenue,REV,Compute,USD,CBS,1993,
+Fiscal,Total revenue,REV,Compute,USD,CBS,1994,
+Fiscal,Total revenue,REV,Compute,USD,CBS,1995,
+Fiscal,Total revenue,REV,Compute,USD,CBS,1996,
+Fiscal,Total revenue,REV,Compute,USD,CBS,1997,
+Fiscal,Total revenue,REV,Compute,USD,CBS,1998,
+Fiscal,Total revenue,REV,Compute,USD,CBS,1999,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2000,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2001,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2002,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2003,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2004,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2005,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2006,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2007,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2008,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2009,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2010,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2011,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2012,
+Fiscal,Total revenue,REV,Compute,USD,CBS,2013,111000000000000000
+Fiscal,Total revenue,REV,Compute,USD,CBS,2014,145000000000000000
+Fiscal,Total revenue,REV,Compute,USD,CBS,2015,139649847.7111111
+Fiscal,Total revenue,REV,Compute,USD,CBS,2016,133907910.1676889
+Fiscal,Total revenue,REV,Compute,USD,CBS,2017,164352915.6094778
+Fiscal,Total revenue,REV,Compute,USD,CBS,2018,205814989.9175556
+Fiscal,Total revenue,REV,Compute,USD,CBS,2019,279662121.4524111
+Fiscal,Total revenue,REV,Compute,USD,CBS,2020,261644860.7779555
+Fiscal,Total revenue,REV,Compute,USD,CBS,2021,272926320.8538778
+Fiscal,Total revenue,REV,Compute,USD,CBS,2022,310868982.4406444
+Fiscal,Total revenue,REV,Compute,USD,CBS,2023,390325196.4461334
+Fiscal,Total revenue,REV,Compute,USD,CBS,2024,419954956.9759541
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1990,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1991,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1992,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1993,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1994,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1995,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1996,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1997,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1998,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,1999,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2000,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2001,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2002,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2003,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2004,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2005,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2006,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2007,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2008,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2009,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2010,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2011,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2012,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2013,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2014,
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2015,166598993.1311111
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2016,189209458.8476889
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2017,269965459.9294778
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2018,327516133.8775556
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2019,391246008.5924111
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2020,547137977.2979555
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2021,419901340.2038778
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2022,770110779.7206445
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2023,798856376.6761334
+Fiscal,Total revenue and grants,REV_GRANTS,Compute,USD,CBS,2024,963316883.905954
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1990,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1991,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1992,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1993,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1994,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1995,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1996,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1997,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1998,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,1999,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2000,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2001,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2002,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2003,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2004,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2005,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2006,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2007,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2008,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2009,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2010,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2011,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2012,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2013,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2014,
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2015,134013082.2864444
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2016,165457716.8366667
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2017,243933065.88
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2018,295052525.1166168
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2019,317716269.6180582
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2020,402429904.6122235
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2021,416610593.313252
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2022,524182457.9566666
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2023,569917282.56
+Fiscal,Current expenditure,CUREXP,Compute,USD,CBS,2024,713920632.4518
+External,Exports goods,X_GOODS,Collect,USD,CBS,1990,6264181.279
+External,Exports goods,X_GOODS,Collect,USD,CBS,1991,4572701.473
+External,Exports goods,X_GOODS,Collect,USD,CBS,1992,7248835.935
+External,Exports goods,X_GOODS,Collect,USD,CBS,1993,8772713.297
+External,Exports goods,X_GOODS,Collect,USD,CBS,1994,10682031.82
+External,Exports goods,X_GOODS,Collect,USD,CBS,1995,14369177.29
+External,Exports goods,X_GOODS,Collect,USD,CBS,1996,20491481.9
+External,Exports goods,X_GOODS,Collect,USD,CBS,1997,24489135.66
+External,Exports goods,X_GOODS,Collect,USD,CBS,1998,30520697
+External,Exports goods,X_GOODS,Collect,USD,CBS,1999,39460689.29
+External,Exports goods,X_GOODS,Collect,USD,CBS,2000,50761576.79
+External,Exports goods,X_GOODS,Collect,USD,CBS,2001,60329347.37
+External,Exports goods,X_GOODS,Collect,USD,CBS,2002,73956073.89
+External,Exports goods,X_GOODS,Collect,USD,CBS,2003,95395336.96
+External,Exports goods,X_GOODS,Collect,USD,CBS,2004,119753143
+External,Exports goods,X_GOODS,Collect,USD,CBS,2005,151922102.7
+External,Exports goods,X_GOODS,Collect,USD,CBS,2006,195455369.2
+External,Exports goods,X_GOODS,Collect,USD,CBS,2007,246964663
+External,Exports goods,X_GOODS,Collect,USD,CBS,2008,323765551.7
+External,Exports goods,X_GOODS,Collect,USD,CBS,2009,433383813.5
+External,Exports goods,X_GOODS,Collect,USD,CBS,2010,544659538.5
+External,Exports goods,X_GOODS,Collect,USD,CBS,2011,720541679.3
+External,Exports goods,X_GOODS,Collect,USD,CBS,2012,961248928.1
+External,Exports goods,X_GOODS,Collect,USD,CBS,2013,846064880.5
+External,Exports goods,X_GOODS,Collect,USD,CBS,2014,957370957.3
+External,Exports goods,X_GOODS,Collect,USD,CBS,2015,1089471579
+External,Exports goods,X_GOODS,Collect,USD,CBS,2016,1206668142
+External,Exports goods,X_GOODS,Collect,USD,CBS,2017,1094601770
+External,Exports goods,X_GOODS,Collect,USD,CBS,2018,1203193215
+External,Exports goods,X_GOODS,Collect,USD,CBS,2019,1157150442
+External,Exports goods,X_GOODS,Collect,USD,CBS,2020,1178000000
+External,Exports goods,X_GOODS,Collect,USD,CBS,2021,1378676991
+External,Exports goods,X_GOODS,Collect,USD,CBS,2022,1567191740
+External,Exports goods,X_GOODS,Collect,USD,CBS,2023,2222215339
+External,Exports goods,X_GOODS,Collect,USD,CBS,2024,3161314159
+External,Imports goods,M_GOODS,Collect,USD,CBS,1990,69102680.75
+External,Imports goods,M_GOODS,Collect,USD,CBS,1991,31938671.75
+External,Imports goods,M_GOODS,Collect,USD,CBS,1992,46902774.33
+External,Imports goods,M_GOODS,Collect,USD,CBS,1993,62319920.88
+External,Imports goods,M_GOODS,Collect,USD,CBS,1994,66199382.94
+External,Imports goods,M_GOODS,Collect,USD,CBS,1995,81277401.34
+External,Imports goods,M_GOODS,Collect,USD,CBS,1996,99230715.65
+External,Imports goods,M_GOODS,Collect,USD,CBS,1997,119278059
+External,Imports goods,M_GOODS,Collect,USD,CBS,1998,145775848.5
+External,Imports goods,M_GOODS,Collect,USD,CBS,1999,188302499.6
+External,Imports goods,M_GOODS,Collect,USD,CBS,2000,228282641.8
+External,Imports goods,M_GOODS,Collect,USD,CBS,2001,282523791.1
+External,Imports goods,M_GOODS,Collect,USD,CBS,2002,344748307.9
+External,Imports goods,M_GOODS,Collect,USD,CBS,2003,406871071.1
+External,Imports goods,M_GOODS,Collect,USD,CBS,2004,488590504.7
+External,Imports goods,M_GOODS,Collect,USD,CBS,2005,600051746.9
+External,Imports goods,M_GOODS,Collect,USD,CBS,2006,694938760.9
+External,Imports goods,M_GOODS,Collect,USD,CBS,2007,926421639.2
+External,Imports goods,M_GOODS,Collect,USD,CBS,2008,1178647992
+External,Imports goods,M_GOODS,Collect,USD,CBS,2009,1535952762
+External,Imports goods,M_GOODS,Collect,USD,CBS,2010,1927320301
+External,Imports goods,M_GOODS,Collect,USD,CBS,2011,2500709532
+External,Imports goods,M_GOODS,Collect,USD,CBS,2012,3281542715
+External,Imports goods,M_GOODS,Collect,USD,CBS,2013,2910724968
+External,Imports goods,M_GOODS,Collect,USD,CBS,2014,3346975403
+External,Imports goods,M_GOODS,Collect,USD,CBS,2015,3895748490
+External,Imports goods,M_GOODS,Collect,USD,CBS,2016,4304534922
+External,Imports goods,M_GOODS,Collect,USD,CBS,2017,4717395429
+External,Imports goods,M_GOODS,Collect,USD,CBS,2018,5133792214
+External,Imports goods,M_GOODS,Collect,USD,CBS,2019,5104023256
+External,Imports goods,M_GOODS,Collect,USD,CBS,2020,5353000000
+External,Imports goods,M_GOODS,Collect,USD,CBS,2021,5662416751
+External,Imports goods,M_GOODS,Collect,USD,CBS,2022,6725980452
+External,Imports goods,M_GOODS,Collect,USD,CBS,2023,7992514324
+External,Imports goods,M_GOODS,Collect,USD,CBS,2024,10271192787
+External,Exports services,X_SERV,Collect,USD,CBS,1990,
+External,Exports services,X_SERV,Collect,USD,CBS,1991,
+External,Exports services,X_SERV,Collect,USD,CBS,1992,
+External,Exports services,X_SERV,Collect,USD,CBS,1993,
+External,Exports services,X_SERV,Collect,USD,CBS,1994,
+External,Exports services,X_SERV,Collect,USD,CBS,1995,
+External,Exports services,X_SERV,Collect,USD,CBS,1996,
+External,Exports services,X_SERV,Collect,USD,CBS,1997,
+External,Exports services,X_SERV,Collect,USD,CBS,1998,
+External,Exports services,X_SERV,Collect,USD,CBS,1999,
+External,Exports services,X_SERV,Collect,USD,CBS,2000,
+External,Exports services,X_SERV,Collect,USD,CBS,2001,
+External,Exports services,X_SERV,Collect,USD,CBS,2002,
+External,Exports services,X_SERV,Collect,USD,CBS,2003,
+External,Exports services,X_SERV,Collect,USD,CBS,2004,
+External,Exports services,X_SERV,Collect,USD,CBS,2005,
+External,Exports services,X_SERV,Collect,USD,CBS,2006,
+External,Exports services,X_SERV,Collect,USD,CBS,2007,
+External,Exports services,X_SERV,Collect,USD,CBS,2008,
+External,Exports services,X_SERV,Collect,USD,CBS,2009,
+External,Exports services,X_SERV,Collect,USD,CBS,2010,
+External,Exports services,X_SERV,Collect,USD,CBS,2011,
+External,Exports services,X_SERV,Collect,USD,CBS,2012,
+External,Exports services,X_SERV,Collect,USD,CBS,2013,
+External,Exports services,X_SERV,Collect,USD,CBS,2014,
+External,Exports services,X_SERV,Collect,USD,CBS,2015,
+External,Exports services,X_SERV,Collect,USD,CBS,2016,
+External,Exports services,X_SERV,Collect,USD,CBS,2017,
+External,Exports services,X_SERV,Collect,USD,CBS,2018,655795552.8382584
+External,Exports services,X_SERV,Collect,USD,CBS,2019,675369775.8679004
+External,Exports services,X_SERV,Collect,USD,CBS,2020,369919656.4900564
+External,Exports services,X_SERV,Collect,USD,CBS,2021,558416001.0324373
+External,Exports services,X_SERV,Collect,USD,CBS,2022,678923051.1038195
+External,Exports services,X_SERV,Collect,USD,CBS,2023,974308444.729247
+External,Exports services,X_SERV,Collect,USD,CBS,2024,1360600020.4160912
+External,Imports services,M_SERV,Collect,USD,CBS,1990,
+External,Imports services,M_SERV,Collect,USD,CBS,1991,
+External,Imports services,M_SERV,Collect,USD,CBS,1992,
+External,Imports services,M_SERV,Collect,USD,CBS,1993,
+External,Imports services,M_SERV,Collect,USD,CBS,1994,
+External,Imports services,M_SERV,Collect,USD,CBS,1995,
+External,Imports services,M_SERV,Collect,USD,CBS,1996,
+External,Imports services,M_SERV,Collect,USD,CBS,1997,
+External,Imports services,M_SERV,Collect,USD,CBS,1998,
+External,Imports services,M_SERV,Collect,USD,CBS,1999,
+External,Imports services,M_SERV,Collect,USD,CBS,2000,
+External,Imports services,M_SERV,Collect,USD,CBS,2001,
+External,Imports services,M_SERV,Collect,USD,CBS,2002,
+External,Imports services,M_SERV,Collect,USD,CBS,2003,
+External,Imports services,M_SERV,Collect,USD,CBS,2004,
+External,Imports services,M_SERV,Collect,USD,CBS,2005,
+External,Imports services,M_SERV,Collect,USD,CBS,2006,
+External,Imports services,M_SERV,Collect,USD,CBS,2007,
+External,Imports services,M_SERV,Collect,USD,CBS,2008,
+External,Imports services,M_SERV,Collect,USD,CBS,2009,
+External,Imports services,M_SERV,Collect,USD,CBS,2010,
+External,Imports services,M_SERV,Collect,USD,CBS,2011,
+External,Imports services,M_SERV,Collect,USD,CBS,2012,
+External,Imports services,M_SERV,Collect,USD,CBS,2013,
+External,Imports services,M_SERV,Collect,USD,CBS,2014,
+External,Imports services,M_SERV,Collect,USD,CBS,2015,
+External,Imports services,M_SERV,Collect,USD,CBS,2016,
+External,Imports services,M_SERV,Collect,USD,CBS,2017,
+External,Imports services,M_SERV,Collect,USD,CBS,2018,-1868027708.2524068
+External,Imports services,M_SERV,Collect,USD,CBS,2019,-2047280747.8515587
+External,Imports services,M_SERV,Collect,USD,CBS,2020,-1322730102.278872
+External,Imports services,M_SERV,Collect,USD,CBS,2021,-1755929753.3694792
+External,Imports services,M_SERV,Collect,USD,CBS,2022,-2075427136.71275
+External,Imports services,M_SERV,Collect,USD,CBS,2023,-2127986918.0759866
+External,Imports services,M_SERV,Collect,USD,CBS,2024,-2722291724.9923296
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1990,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1991,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1992,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1993,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1994,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1995,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1996,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1997,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1998,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,1999,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2000,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2001,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2002,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2003,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2004,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2005,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2006,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2007,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2008,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2009,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2010,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2011,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2012,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2013,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2014,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2015,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2016,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2017,
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2018,54964752.06665894
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2019,86775037.5268629
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2020,101428701.51794906
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2021,121717173.6453738
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2022,132025967.3585505
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2023,147303740.2287549
+External,Primary income credit,PRI_INC_CR,Collect,USD,CBS,2024,481279478.28837144
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1990,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1991,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1992,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1993,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1994,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1995,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1996,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1997,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1998,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,1999,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2000,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2001,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2002,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2003,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2004,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2005,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2006,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2007,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2008,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2009,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2010,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2011,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2012,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2013,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2014,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2015,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2016,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2017,
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2018,-25548987.63037959
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2019,-30208407.654026628
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2020,-38119757.298851475
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2021,-57520500.28240225
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2022,-220475321.17406583
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2023,-232710469.94355384
+External,Primary income debit,PRI_INC_DB,Collect,USD,CBS,2024,-196891503.9573602
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1990,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1991,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1992,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1993,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1994,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1995,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1996,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1997,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1998,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,1999,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2000,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2001,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2002,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2003,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2004,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2005,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2006,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2007,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2008,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2009,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2010,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2011,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2012,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2013,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2014,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2015,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2016,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2017,
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2018,2560239432.350525
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2019,3109447304.7000446
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2020,3149412059.5463796
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2021,3862876801.3626876
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2022,4936899301.376589
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2023,4845583990.270072
+External,Secondary income credit,SEC_INC_CR,Collect,USD,CBS,2024,4930607087.366353
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1990,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1991,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1992,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1993,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1994,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1995,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1996,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1997,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1998,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,1999,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2000,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2001,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2002,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2003,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2004,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2005,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2006,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2007,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2008,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2009,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2010,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2011,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2012,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2013,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2014,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2015,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2016,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2017,
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2018,-377275982.2867896
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2019,-489266708.0998399
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2020,-639789825.4151381
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2021,-855095522.8650432
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2022,-1070851084.0183755
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2023,-1023026380.9492806
+External,Secondary income debit,SEC_INC_DB,Collect,USD,CBS,2024,-1352579168.0618012
+External,Remittances,REM,Collect,USD,CBS,1990,
+External,Remittances,REM,Collect,USD,CBS,1991,
+External,Remittances,REM,Collect,USD,CBS,1992,
+External,Remittances,REM,Collect,USD,CBS,1993,
+External,Remittances,REM,Collect,USD,CBS,1994,
+External,Remittances,REM,Collect,USD,CBS,1995,
+External,Remittances,REM,Collect,USD,CBS,1996,
+External,Remittances,REM,Collect,USD,CBS,1997,
+External,Remittances,REM,Collect,USD,CBS,1998,
+External,Remittances,REM,Collect,USD,CBS,1999,
+External,Remittances,REM,Collect,USD,CBS,2000,
+External,Remittances,REM,Collect,USD,CBS,2001,
+External,Remittances,REM,Collect,USD,CBS,2002,
+External,Remittances,REM,Collect,USD,CBS,2003,
+External,Remittances,REM,Collect,USD,CBS,2004,
+External,Remittances,REM,Collect,USD,CBS,2005,
+External,Remittances,REM,Collect,USD,CBS,2006,
+External,Remittances,REM,Collect,USD,CBS,2007,
+External,Remittances,REM,Collect,USD,CBS,2008,
+External,Remittances,REM,Collect,USD,CBS,2009,
+External,Remittances,REM,Collect,USD,CBS,2010,
+External,Remittances,REM,Collect,USD,CBS,2011,
+External,Remittances,REM,Collect,USD,CBS,2012,
+External,Remittances,REM,Collect,USD,CBS,2013,
+External,Remittances,REM,Collect,USD,CBS,2014,
+External,Remittances,REM,Collect,USD,CBS,2015,
+External,Remittances,REM,Collect,USD,CBS,2016,
+External,Remittances,REM,Collect,USD,CBS,2017,
+External,Remittances,REM,Collect,USD,CBS,2018,690987878.6838148
+External,Remittances,REM,Collect,USD,CBS,2019,611013384.6816347
+External,Remittances,REM,Collect,USD,CBS,2020,717085076.5682108
+External,Remittances,REM,Collect,USD,CBS,2021,870511783.8277873
+External,Remittances,REM,Collect,USD,CBS,2022,1579000000
+External,Remittances,REM,Collect,USD,CBS,2023,825993872.5256565
+External,Remittances,REM,Collect,USD,CBS,2024,876161182.6872398
+External,Capital account balance,KAB,Collect,USD,CBS,1990,
+External,Capital account balance,KAB,Collect,USD,CBS,1991,
+External,Capital account balance,KAB,Collect,USD,CBS,1992,
+External,Capital account balance,KAB,Collect,USD,CBS,1993,
+External,Capital account balance,KAB,Collect,USD,CBS,1994,
+External,Capital account balance,KAB,Collect,USD,CBS,1995,
+External,Capital account balance,KAB,Collect,USD,CBS,1996,
+External,Capital account balance,KAB,Collect,USD,CBS,1997,
+External,Capital account balance,KAB,Collect,USD,CBS,1998,
+External,Capital account balance,KAB,Collect,USD,CBS,1999,
+External,Capital account balance,KAB,Collect,USD,CBS,2000,
+External,Capital account balance,KAB,Collect,USD,CBS,2001,
+External,Capital account balance,KAB,Collect,USD,CBS,2002,
+External,Capital account balance,KAB,Collect,USD,CBS,2003,
+External,Capital account balance,KAB,Collect,USD,CBS,2004,
+External,Capital account balance,KAB,Collect,USD,CBS,2005,
+External,Capital account balance,KAB,Collect,USD,CBS,2006,
+External,Capital account balance,KAB,Collect,USD,CBS,2007,
+External,Capital account balance,KAB,Collect,USD,CBS,2008,
+External,Capital account balance,KAB,Collect,USD,CBS,2009,
+External,Capital account balance,KAB,Collect,USD,CBS,2010,
+External,Capital account balance,KAB,Collect,USD,CBS,2011,
+External,Capital account balance,KAB,Collect,USD,CBS,2012,
+External,Capital account balance,KAB,Collect,USD,CBS,2013,
+External,Capital account balance,KAB,Collect,USD,CBS,2014,
+External,Capital account balance,KAB,Collect,USD,CBS,2015,
+External,Capital account balance,KAB,Collect,USD,CBS,2016,
+External,Capital account balance,KAB,Collect,USD,CBS,2017,
+External,Capital account balance,KAB,Collect,USD,CBS,2018,146442598.03166324
+External,Capital account balance,KAB,Collect,USD,CBS,2019,189411908.59552744
+External,Capital account balance,KAB,Collect,USD,CBS,2020,1015796522.6028473
+External,Capital account balance,KAB,Collect,USD,CBS,2021,328144803.16260237
+External,Capital account balance,KAB,Collect,USD,CBS,2022,443038437.09071815
+External,Capital account balance,KAB,Collect,USD,CBS,2023,2024709093.263792
+External,Capital account balance,KAB,Collect,USD,CBS,2024,1825764919.4603486
+External,Financial account balance,FAB,Collect,USD,CBS,1990,
+External,Financial account balance,FAB,Collect,USD,CBS,1991,
+External,Financial account balance,FAB,Collect,USD,CBS,1992,
+External,Financial account balance,FAB,Collect,USD,CBS,1993,
+External,Financial account balance,FAB,Collect,USD,CBS,1994,
+External,Financial account balance,FAB,Collect,USD,CBS,1995,
+External,Financial account balance,FAB,Collect,USD,CBS,1996,
+External,Financial account balance,FAB,Collect,USD,CBS,1997,
+External,Financial account balance,FAB,Collect,USD,CBS,1998,
+External,Financial account balance,FAB,Collect,USD,CBS,1999,
+External,Financial account balance,FAB,Collect,USD,CBS,2000,
+External,Financial account balance,FAB,Collect,USD,CBS,2001,
+External,Financial account balance,FAB,Collect,USD,CBS,2002,
+External,Financial account balance,FAB,Collect,USD,CBS,2003,
+External,Financial account balance,FAB,Collect,USD,CBS,2004,
+External,Financial account balance,FAB,Collect,USD,CBS,2005,
+External,Financial account balance,FAB,Collect,USD,CBS,2006,
+External,Financial account balance,FAB,Collect,USD,CBS,2007,
+External,Financial account balance,FAB,Collect,USD,CBS,2008,
+External,Financial account balance,FAB,Collect,USD,CBS,2009,
+External,Financial account balance,FAB,Collect,USD,CBS,2010,
+External,Financial account balance,FAB,Collect,USD,CBS,2011,
+External,Financial account balance,FAB,Collect,USD,CBS,2012,
+External,Financial account balance,FAB,Collect,USD,CBS,2013,
+External,Financial account balance,FAB,Collect,USD,CBS,2014,
+External,Financial account balance,FAB,Collect,USD,CBS,2015,
+External,Financial account balance,FAB,Collect,USD,CBS,2016,
+External,Financial account balance,FAB,Collect,USD,CBS,2017,
+External,Financial account balance,FAB,Collect,USD,CBS,2018,-592512782.1311896
+External,Financial account balance,FAB,Collect,USD,CBS,2019,-274712665.0832597
+External,Financial account balance,FAB,Collect,USD,CBS,2020,-1271954394.9892108
+External,Financial account balance,FAB,Collect,USD,CBS,2021,-544544086.198288
+External,Financial account balance,FAB,Collect,USD,CBS,2022,-450656580.1609611
+External,Financial account balance,FAB,Collect,USD,CBS,2023,-1871020157.0895002
+External,Financial account balance,FAB,Collect,USD,CBS,2024,-2008053745.8100562
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1990,5590000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1991,-150000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1992,-60000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1993,2000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1994,1000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1995,1000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1996,1300000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1997,1100000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1998,40000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,1999,-810000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2000,270000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2001,40000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2002,140000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2003,-850000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2004,-4790000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2005,24000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2006,96000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2007,141000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2008,87000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2009,108000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2010,112000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2011,102000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2012,107330000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2013,258000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2014,261000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2015,303000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2016,330000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2017,369000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2018,408000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2019,447000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2020,534000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2021,601000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2022,636000000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2023,676500000
+External,FDI net,FDI_NET,Collect,USD (Current),CBS,2024,765000000
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1990,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1991,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1992,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1993,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1994,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1995,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1996,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1997,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1998,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,1999,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2000,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2001,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2002,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2003,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2004,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2005,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2006,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2007,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2008,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2009,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2010,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2011,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2012,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2013,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2014,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2015,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2016,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2017,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2018,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2019,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2020,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2021,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2022,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2023,
+External,Portfolio investment net,PORT_NET,Collect,USD,N/A,2024,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1990,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1991,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1992,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1993,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1994,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1995,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1996,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1997,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1998,
+External,Other investment net,OINV_NET,Collect,USD,CBS,1999,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2000,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2001,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2002,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2003,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2004,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2005,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2006,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2007,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2008,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2009,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2010,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2011,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2012,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2013,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2014,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2015,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2016,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2017,
+External,Other investment net,OINV_NET,Collect,USD,CBS,2018,1000512782.1311896
+External,Other investment net,OINV_NET,Collect,USD,CBS,2019,721712665.0832597
+External,Other investment net,OINV_NET,Collect,USD,CBS,2020,1805954394.9892108
+External,Other investment net,OINV_NET,Collect,USD,CBS,2021,1145544086.198288
+External,Other investment net,OINV_NET,Collect,USD,CBS,2022,1086656580.1609612
+External,Other investment net,OINV_NET,Collect,USD,CBS,2023,2548020157.0895
+External,Other investment net,OINV_NET,Collect,USD,CBS,2024,2773053745.810056
+External,Change in reserves,DRES,Collect,USD,CBS,1990,
+External,Change in reserves,DRES,Collect,USD,CBS,1991,
+External,Change in reserves,DRES,Collect,USD,CBS,1992,
+External,Change in reserves,DRES,Collect,USD,CBS,1993,
+External,Change in reserves,DRES,Collect,USD,CBS,1994,
+External,Change in reserves,DRES,Collect,USD,CBS,1995,
+External,Change in reserves,DRES,Collect,USD,CBS,1996,
+External,Change in reserves,DRES,Collect,USD,CBS,1997,
+External,Change in reserves,DRES,Collect,USD,CBS,1998,
+External,Change in reserves,DRES,Collect,USD,CBS,1999,
+External,Change in reserves,DRES,Collect,USD,CBS,2000,
+External,Change in reserves,DRES,Collect,USD,CBS,2001,
+External,Change in reserves,DRES,Collect,USD,CBS,2002,
+External,Change in reserves,DRES,Collect,USD,CBS,2003,
+External,Change in reserves,DRES,Collect,USD,CBS,2004,
+External,Change in reserves,DRES,Collect,USD,CBS,2005,
+External,Change in reserves,DRES,Collect,USD,CBS,2006,
+External,Change in reserves,DRES,Collect,USD,CBS,2007,
+External,Change in reserves,DRES,Collect,USD,CBS,2008,
+External,Change in reserves,DRES,Collect,USD,CBS,2009,
+External,Change in reserves,DRES,Collect,USD,CBS,2010,
+External,Change in reserves,DRES,Collect,USD,CBS,2011,
+External,Change in reserves,DRES,Collect,USD,CBS,2012,
+External,Change in reserves,DRES,Collect,USD,CBS,2013,
+External,Change in reserves,DRES,Collect,USD,CBS,2014,
+External,Change in reserves,DRES,Collect,USD,CBS,2015,
+External,Change in reserves,DRES,Collect,USD,CBS,2016,
+External,Change in reserves,DRES,Collect,USD,CBS,2017,
+External,Change in reserves,DRES,Collect,USD,CBS,2018,20786436.3
+External,Change in reserves,DRES,Collect,USD,CBS,2019,59620000
+External,Change in reserves,DRES,Collect,USD,CBS,2020,98444770.79
+External,Change in reserves,DRES,Collect,USD,CBS,2021,144301700.36
+External,Change in reserves,DRES,Collect,USD,CBS,2022,20399315.320000034
+External,Change in reserves,DRES,Collect,USD,CBS,2023,66801102.22000002
+External,Change in reserves,DRES,Collect,USD,CBS,2024,62379078.849999994
+External,Gross reserves,RESERVES,Collect,USD,CBS,1990,
+External,Gross reserves,RESERVES,Collect,USD,CBS,1991,
+External,Gross reserves,RESERVES,Collect,USD,CBS,1992,
+External,Gross reserves,RESERVES,Collect,USD,CBS,1993,
+External,Gross reserves,RESERVES,Collect,USD,CBS,1994,
+External,Gross reserves,RESERVES,Collect,USD,CBS,1995,
+External,Gross reserves,RESERVES,Collect,USD,CBS,1996,
+External,Gross reserves,RESERVES,Collect,USD,CBS,1997,
+External,Gross reserves,RESERVES,Collect,USD,CBS,1998,
+External,Gross reserves,RESERVES,Collect,USD,CBS,1999,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2000,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2001,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2002,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2003,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2004,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2005,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2006,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2007,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2008,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2009,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2010,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2011,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2012,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2013,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2014,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2015,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2016,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2017,
+External,Gross reserves,RESERVES,Collect,USD,CBS,2018,20786436.3
+External,Gross reserves,RESERVES,Collect,USD,CBS,2019,59620000
+External,Gross reserves,RESERVES,Collect,USD,CBS,2020,98444770.79
+External,Gross reserves,RESERVES,Collect,USD,CBS,2021,144301700.36
+External,Gross reserves,RESERVES,Collect,USD,CBS,2022,20399315.320000034
+External,Gross reserves,RESERVES,Collect,USD,CBS,2023,66801102.22000002
+External,Gross reserves,RESERVES,Collect,USD,CBS,2024,62379078.849999994
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1990,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1991,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1992,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1993,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1994,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1995,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1996,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1997,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1998,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,1999,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2000,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2001,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2002,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2003,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2004,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2005,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2006,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2007,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2008,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2009,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2010,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2011,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2012,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2013,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2014,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2015,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2016,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2017,
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2018,23954.184425451094
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2019,25064.62775403609
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2020,25761.1721747388
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2021,26039.009639126307
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2022,26832.5196908935
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2023,27225.30823189154
+External,Exchange rate average,NER_AVG,Collect,NC/USD,CBS,2024,28117.829636104634
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1990,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1991,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1992,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1993,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1994,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1995,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1996,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1997,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1998,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,1999,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2000,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2001,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2002,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2003,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2004,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2005,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2006,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2007,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2008,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2009,31558.9054783951
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2010,31269.6625712251
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2011,29966.8354404084
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2012,22516.0002967711
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2013,19283.7999504521
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2014,20230.9291310541
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2015,22254.2356837607
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2016,23061.7843138651
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2017,23097.9873219373
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2018,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2019,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2020,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2021,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2022,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2023,
+External,Exchange rate end-period,NER_EOP,Collect,NC/USD,CBS,2024,
+External,NEER,NEER,Collect,Index,N/A,1990,
+External,NEER,NEER,Collect,Index,N/A,1991,
+External,NEER,NEER,Collect,Index,N/A,1992,
+External,NEER,NEER,Collect,Index,N/A,1993,
+External,NEER,NEER,Collect,Index,N/A,1994,
+External,NEER,NEER,Collect,Index,N/A,1995,
+External,NEER,NEER,Collect,Index,N/A,1996,
+External,NEER,NEER,Collect,Index,N/A,1997,
+External,NEER,NEER,Collect,Index,N/A,1998,
+External,NEER,NEER,Collect,Index,N/A,1999,
+External,NEER,NEER,Collect,Index,N/A,2000,
+External,NEER,NEER,Collect,Index,N/A,2001,
+External,NEER,NEER,Collect,Index,N/A,2002,
+External,NEER,NEER,Collect,Index,N/A,2003,
+External,NEER,NEER,Collect,Index,N/A,2004,
+External,NEER,NEER,Collect,Index,N/A,2005,
+External,NEER,NEER,Collect,Index,N/A,2006,
+External,NEER,NEER,Collect,Index,N/A,2007,
+External,NEER,NEER,Collect,Index,N/A,2008,
+External,NEER,NEER,Collect,Index,N/A,2009,
+External,NEER,NEER,Collect,Index,N/A,2010,
+External,NEER,NEER,Collect,Index,N/A,2011,
+External,NEER,NEER,Collect,Index,N/A,2012,
+External,NEER,NEER,Collect,Index,N/A,2013,
+External,NEER,NEER,Collect,Index,N/A,2014,
+External,NEER,NEER,Collect,Index,N/A,2015,
+External,NEER,NEER,Collect,Index,N/A,2016,
+External,NEER,NEER,Collect,Index,N/A,2017,
+External,NEER,NEER,Collect,Index,N/A,2018,
+External,NEER,NEER,Collect,Index,N/A,2019,
+External,NEER,NEER,Collect,Index,N/A,2020,
+External,NEER,NEER,Collect,Index,N/A,2021,
+External,NEER,NEER,Collect,Index,N/A,2022,
+External,NEER,NEER,Collect,Index,N/A,2023,
+External,NEER,NEER,Collect,Index,N/A,2024,
+External,REER,REER,Collect,Index,N/A,1990,
+External,REER,REER,Collect,Index,N/A,1991,
+External,REER,REER,Collect,Index,N/A,1992,
+External,REER,REER,Collect,Index,N/A,1993,
+External,REER,REER,Collect,Index,N/A,1994,
+External,REER,REER,Collect,Index,N/A,1995,
+External,REER,REER,Collect,Index,N/A,1996,
+External,REER,REER,Collect,Index,N/A,1997,
+External,REER,REER,Collect,Index,N/A,1998,
+External,REER,REER,Collect,Index,N/A,1999,
+External,REER,REER,Collect,Index,N/A,2000,
+External,REER,REER,Collect,Index,N/A,2001,
+External,REER,REER,Collect,Index,N/A,2002,
+External,REER,REER,Collect,Index,N/A,2003,
+External,REER,REER,Collect,Index,N/A,2004,
+External,REER,REER,Collect,Index,N/A,2005,
+External,REER,REER,Collect,Index,N/A,2006,
+External,REER,REER,Collect,Index,N/A,2007,
+External,REER,REER,Collect,Index,N/A,2008,
+External,REER,REER,Collect,Index,N/A,2009,
+External,REER,REER,Collect,Index,N/A,2010,
+External,REER,REER,Collect,Index,N/A,2011,
+External,REER,REER,Collect,Index,N/A,2012,
+External,REER,REER,Collect,Index,N/A,2013,
+External,REER,REER,Collect,Index,N/A,2014,
+External,REER,REER,Collect,Index,N/A,2015,
+External,REER,REER,Collect,Index,N/A,2016,
+External,REER,REER,Collect,Index,N/A,2017,
+External,REER,REER,Collect,Index,N/A,2018,
+External,REER,REER,Collect,Index,N/A,2019,
+External,REER,REER,Collect,Index,N/A,2020,
+External,REER,REER,Collect,Index,N/A,2021,
+External,REER,REER,Collect,Index,N/A,2022,
+External,REER,REER,Collect,Index,N/A,2023,
+External,REER,REER,Collect,Index,N/A,2024,
+External,Import price index,PM,Collect,Index,WDI,1990,7.3806532479
+External,Import price index,PM,Collect,Index,WDI,1991,4.8331535684
+External,Import price index,PM,Collect,Index,WDI,1992,4.3536178058
+External,Import price index,PM,Collect,Index,WDI,1993,3.9245977444
+External,Import price index,PM,Collect,Index,WDI,1994,3.452966414
+External,Import price index,PM,Collect,Index,WDI,1995,24.3590909066
+External,Import price index,PM,Collect,Index,WDI,1996,26.8181818173
+External,Import price index,PM,Collect,Index,WDI,1997,28.4545454526
+External,Import price index,PM,Collect,Index,WDI,1998,25.454545452
+External,Import price index,PM,Collect,Index,WDI,1999,30.9272727259
+External,Import price index,PM,Collect,Index,WDI,2000,31.1809090883
+External,Import price index,PM,Collect,Index,WDI,2001,40.8181818036
+External,Import price index,PM,Collect,Index,WDI,2002,41.2736363537
+External,Import price index,PM,Collect,Index,WDI,2003,46.9999999869
+External,Import price index,PM,Collect,Index,WDI,2004,55.4545454613
+External,Import price index,PM,Collect,Index,WDI,2005,16.4
+External,Import price index,PM,Collect,Index,WDI,2006,23.4
+External,Import price index,PM,Collect,Index,WDI,2007,22.8
+External,Import price index,PM,Collect,Index,WDI,2008,38.6
+External,Import price index,PM,Collect,Index,WDI,2009,35
+External,Import price index,PM,Collect,Index,WDI,2010,49.3
+External,Import price index,PM,Collect,Index,WDI,2011,68.8
+External,Import price index,PM,Collect,Index,WDI,2012,76.1
+External,Import price index,PM,Collect,Index,WDI,2013,85.5
+External,Import price index,PM,Collect,Index,WDI,2014,94.4
+External,Import price index,PM,Collect,Index,WDI,2015,100
+External,Import price index,PM,Collect,Index,WDI,2016,110
+External,Import price index,PM,Collect,Index,WDI,2017,134.4
+External,Import price index,PM,Collect,Index,WDI,2018,136.8
+External,Import price index,PM,Collect,Index,WDI,2019,156
+External,Import price index,PM,Collect,Index,WDI,2020,169.4
+External,Import price index,PM,Collect,Index,WDI,2021,171.3
+External,Import price index,PM,Collect,Index,WDI,2022,199.7
+External,Import price index,PM,Collect,Index,WDI,2023,194
+External,Import price index,PM,Collect,Index,WDI,2024,207.3130749831694
+External,Export price index,PX,Collect,Index,WDI,1990,34.0940888536
+External,Export price index,PX,Collect,Index,WDI,1991,20.6837472366
+External,Export price index,PX,Collect,Index,WDI,1992,26.8206832298
+External,Export price index,PX,Collect,Index,WDI,1993,26.5933893054
+External,Export price index,PX,Collect,Index,WDI,1994,30.9119738948
+External,Export price index,PX,Collect,Index,WDI,1995,38.6340909122
+External,Export price index,PX,Collect,Index,WDI,1996,42.5000000022
+External,Export price index,PX,Collect,Index,WDI,1997,40.2250000009
+External,Export price index,PX,Collect,Index,WDI,1998,44.7749999991
+External,Export price index,PX,Collect,Index,WDI,1999,43.4090909113
+External,Export price index,PX,Collect,Index,WDI,2000,43.8636363658
+External,Export price index,PX,Collect,Index,WDI,2001,64.7727272837
+External,Export price index,PX,Collect,Index,WDI,2002,67.5022727263
+External,Export price index,PX,Collect,Index,WDI,2003,50.6818182059
+External,Export price index,PX,Collect,Index,WDI,2004,40.9090909091
+External,Export price index,PX,Collect,Index,WDI,2005,29
+External,Export price index,PX,Collect,Index,WDI,2006,49.1
+External,Export price index,PX,Collect,Index,WDI,2007,27.4
+External,Export price index,PX,Collect,Index,WDI,2008,31.7
+External,Export price index,PX,Collect,Index,WDI,2009,40.7
+External,Export price index,PX,Collect,Index,WDI,2010,53.4
+External,Export price index,PX,Collect,Index,WDI,2011,70.1
+External,Export price index,PX,Collect,Index,WDI,2012,69.6
+External,Export price index,PX,Collect,Index,WDI,2013,93.1
+External,Export price index,PX,Collect,Index,WDI,2014,100.8
+External,Export price index,PX,Collect,Index,WDI,2015,100
+External,Export price index,PX,Collect,Index,WDI,2016,92.4
+External,Export price index,PX,Collect,Index,WDI,2017,69.7
+External,Export price index,PX,Collect,Index,WDI,2018,80.2
+External,Export price index,PX,Collect,Index,WDI,2019,85.6
+External,Export price index,PX,Collect,Index,WDI,2020,77
+External,Export price index,PX,Collect,Index,WDI,2021,57.3
+External,Export price index,PX,Collect,Index,WDI,2022,97.5
+External,Export price index,PX,Collect,Index,WDI,2023,112.7
+External,Export price index,PX,Collect,Index,WDI,2024,161.0183283662236
+External,Trade balance,TBAL,Compute,USD,CBS,1990,-62838499.471
+External,Trade balance,TBAL,Compute,USD,CBS,1991,-27365970.277
+External,Trade balance,TBAL,Compute,USD,CBS,1992,-39653938.395
+External,Trade balance,TBAL,Compute,USD,CBS,1993,-53547207.583
+External,Trade balance,TBAL,Compute,USD,CBS,1994,-55517351.12
+External,Trade balance,TBAL,Compute,USD,CBS,1995,-66908224.05
+External,Trade balance,TBAL,Compute,USD,CBS,1996,-78739233.75
+External,Trade balance,TBAL,Compute,USD,CBS,1997,-94788923.34
+External,Trade balance,TBAL,Compute,USD,CBS,1998,-115255151.5
+External,Trade balance,TBAL,Compute,USD,CBS,1999,-148841810.31
+External,Trade balance,TBAL,Compute,USD,CBS,2000,-177521065.01
+External,Trade balance,TBAL,Compute,USD,CBS,2001,-222194443.73
+External,Trade balance,TBAL,Compute,USD,CBS,2002,-270792234.01
+External,Trade balance,TBAL,Compute,USD,CBS,2003,-311475734.14
+External,Trade balance,TBAL,Compute,USD,CBS,2004,-368837361.7
+External,Trade balance,TBAL,Compute,USD,CBS,2005,-448129644.2
+External,Trade balance,TBAL,Compute,USD,CBS,2006,-499483391.7
+External,Trade balance,TBAL,Compute,USD,CBS,2007,-679456976.2
+External,Trade balance,TBAL,Compute,USD,CBS,2008,-854882440.3
+External,Trade balance,TBAL,Compute,USD,CBS,2009,-1102568948.5
+External,Trade balance,TBAL,Compute,USD,CBS,2010,-1382660762.5
+External,Trade balance,TBAL,Compute,USD,CBS,2011,-1780167852.7
+External,Trade balance,TBAL,Compute,USD,CBS,2012,-2320293786.9
+External,Trade balance,TBAL,Compute,USD,CBS,2013,-2064660087.5
+External,Trade balance,TBAL,Compute,USD,CBS,2014,-2389604445.7
+External,Trade balance,TBAL,Compute,USD,CBS,2015,-2806276911
+External,Trade balance,TBAL,Compute,USD,CBS,2016,-3097866780
+External,Trade balance,TBAL,Compute,USD,CBS,2017,-3622793659
+External,Trade balance,TBAL,Compute,USD,CBS,2018,-1406775737.909335
+External,Trade balance,TBAL,Compute,USD,CBS,2019,-1224222290.280541
+External,Trade balance,TBAL,Compute,USD,CBS,2020,-2482350241.231071
+External,Trade balance,TBAL,Compute,USD,CBS,2021,-1969394005.598083
+External,Trade balance,TBAL,Compute,USD,CBS,2022,-2404438524.183431
+External,Trade balance,TBAL,Compute,USD,CBS,2023,-2668003622.194767
+External,Trade balance,TBAL,Compute,USD,CBS,2024,-3026986882.591579
+External,Current account balance,CAB,Compute,USD,CBS,1990,
+External,Current account balance,CAB,Compute,USD,CBS,1991,
+External,Current account balance,CAB,Compute,USD,CBS,1992,
+External,Current account balance,CAB,Compute,USD,CBS,1993,
+External,Current account balance,CAB,Compute,USD,CBS,1994,
+External,Current account balance,CAB,Compute,USD,CBS,1995,
+External,Current account balance,CAB,Compute,USD,CBS,1996,
+External,Current account balance,CAB,Compute,USD,CBS,1997,
+External,Current account balance,CAB,Compute,USD,CBS,1998,
+External,Current account balance,CAB,Compute,USD,CBS,1999,
+External,Current account balance,CAB,Compute,USD,CBS,2000,
+External,Current account balance,CAB,Compute,USD,CBS,2001,
+External,Current account balance,CAB,Compute,USD,CBS,2002,
+External,Current account balance,CAB,Compute,USD,CBS,2003,
+External,Current account balance,CAB,Compute,USD,CBS,2004,
+External,Current account balance,CAB,Compute,USD,CBS,2005,
+External,Current account balance,CAB,Compute,USD,CBS,2006,
+External,Current account balance,CAB,Compute,USD,CBS,2007,
+External,Current account balance,CAB,Compute,USD,CBS,2008,
+External,Current account balance,CAB,Compute,USD,CBS,2009,
+External,Current account balance,CAB,Compute,USD,CBS,2010,
+External,Current account balance,CAB,Compute,USD,CBS,2011,
+External,Current account balance,CAB,Compute,USD,CBS,2012,
+External,Current account balance,CAB,Compute,USD,CBS,2013,
+External,Current account balance,CAB,Compute,USD,CBS,2014,
+External,Current account balance,CAB,Compute,USD,CBS,2015,
+External,Current account balance,CAB,Compute,USD,CBS,2016,
+External,Current account balance,CAB,Compute,USD,CBS,2017,
+External,Current account balance,CAB,Compute,USD,CBS,2018,-1256915354.9651327
+External,Current account balance,CAB,Compute,USD,CBS,2019,-1185474070.3629105
+External,Current account balance,CAB,Compute,USD,CBS,2020,-959240321.8172677
+External,Current account balance,CAB,Compute,USD,CBS,2021,-1352168371.3275962
+External,Current account balance,CAB,Compute,USD,CBS,2022,-1926855798.0491915
+External,Current account balance,CAB,Compute,USD,CBS,2023,-2209889730.745972
+External,Current account balance,CAB,Compute,USD,CBS,2024,-2493789977.936874
+External,Terms of trade,TOT,Compute,Index,WDI,1990,
+External,Terms of trade,TOT,Compute,Index,WDI,1991,
+External,Terms of trade,TOT,Compute,Index,WDI,1992,
+External,Terms of trade,TOT,Compute,Index,WDI,1993,
+External,Terms of trade,TOT,Compute,Index,WDI,1994,
+External,Terms of trade,TOT,Compute,Index,WDI,1995,
+External,Terms of trade,TOT,Compute,Index,WDI,1996,
+External,Terms of trade,TOT,Compute,Index,WDI,1997,
+External,Terms of trade,TOT,Compute,Index,WDI,1998,
+External,Terms of trade,TOT,Compute,Index,WDI,1999,
+External,Terms of trade,TOT,Compute,Index,WDI,2000,108.9985463506
+External,Terms of trade,TOT,Compute,Index,WDI,2001,109.3726944338
+External,Terms of trade,TOT,Compute,Index,WDI,2002,108.5477731068
+External,Terms of trade,TOT,Compute,Index,WDI,2003,112.3174909388
+External,Terms of trade,TOT,Compute,Index,WDI,2004,113.8530545029
+External,Terms of trade,TOT,Compute,Index,WDI,2005,87.1
+External,Terms of trade,TOT,Compute,Index,WDI,2006,88.3
+External,Terms of trade,TOT,Compute,Index,WDI,2007,95.2
+External,Terms of trade,TOT,Compute,Index,WDI,2008,88.8
+External,Terms of trade,TOT,Compute,Index,WDI,2009,85.5
+External,Terms of trade,TOT,Compute,Index,WDI,2010,94.8
+External,Terms of trade,TOT,Compute,Index,WDI,2011,94.5
+External,Terms of trade,TOT,Compute,Index,WDI,2012,97.1
+External,Terms of trade,TOT,Compute,Index,WDI,2013,102.4
+External,Terms of trade,TOT,Compute,Index,WDI,2014,108.8
+External,Terms of trade,TOT,Compute,Index,WDI,2015,100
+External,Terms of trade,TOT,Compute,Index,WDI,2016,93.9
+External,Terms of trade,TOT,Compute,Index,WDI,2017,101.9
+External,Terms of trade,TOT,Compute,Index,WDI,2018,102.9
+External,Terms of trade,TOT,Compute,Index,WDI,2019,105.5
+External,Terms of trade,TOT,Compute,Index,WDI,2020,112
+External,Terms of trade,TOT,Compute,Index,WDI,2021,120.9
+External,Terms of trade,TOT,Compute,Index,WDI,2022,117
+External,Terms of trade,TOT,Compute,Index,WDI,2023,117.4
+External,Terms of trade,TOT,Compute,Index,WDI,2024,115.707135373587
+External,World GDP N,W_NGDP,Collect,USD,WDI,1990,22922751084575.016
+External,World GDP N,W_NGDP,Collect,USD,WDI,1991,23920903881560.85
+External,World GDP N,W_NGDP,Collect,USD,WDI,1992,25546959069356.777
+External,World GDP N,W_NGDP,Collect,USD,WDI,1993,25974923485795.527
+External,World GDP N,W_NGDP,Collect,USD,WDI,1994,27961448359307.64
+External,World GDP N,W_NGDP,Collect,USD,WDI,1995,31245419629026.04
+External,World GDP N,W_NGDP,Collect,USD,WDI,1996,31968950237590.74
+External,World GDP N,W_NGDP,Collect,USD,WDI,1997,31870560107975.71
+External,World GDP N,W_NGDP,Collect,USD,WDI,1998,31733749169046.688
+External,World GDP N,W_NGDP,Collect,USD,WDI,1999,32782827769545.305
+External,World GDP N,W_NGDP,Collect,USD,WDI,2000,33898156427205.85
+External,World GDP N,W_NGDP,Collect,USD,WDI,2001,33690417699612.68
+External,World GDP N,W_NGDP,Collect,USD,WDI,2002,34991525564916.91
+External,World GDP N,W_NGDP,Collect,USD,WDI,2003,39243276986261.89
+External,World GDP N,W_NGDP,Collect,USD,WDI,2004,44225384449869.72
+External,World GDP N,W_NGDP,Collect,USD,WDI,2005,47900489808168.8
+External,World GDP N,W_NGDP,Collect,USD,WDI,2006,51923507284495.984
+External,World GDP N,W_NGDP,Collect,USD,WDI,2007,58525785801185.8
+External,World GDP N,W_NGDP,Collect,USD,WDI,2008,64311729364641.31
+External,World GDP N,W_NGDP,Collect,USD,WDI,2009,60982255960004.41
+External,World GDP N,W_NGDP,Collect,USD,WDI,2010,66811191491614.93
+External,World GDP N,W_NGDP,Collect,USD,WDI,2011,74309709353789.27
+External,World GDP N,W_NGDP,Collect,USD,WDI,2012,75960594595757.05
+External,World GDP N,W_NGDP,Collect,USD,WDI,2013,78034892841179.12
+External,World GDP N,W_NGDP,Collect,USD,WDI,2014,80054888775431.12
+External,World GDP N,W_NGDP,Collect,USD,WDI,2015,75621913961646.06
+External,World GDP N,W_NGDP,Collect,USD,WDI,2016,76831684012526.19
+External,World GDP N,W_NGDP,Collect,USD,WDI,2017,81839102917044.67
+External,World GDP N,W_NGDP,Collect,USD,WDI,2018,87050964956078.42
+External,World GDP N,W_NGDP,Collect,USD,WDI,2019,88483262418196.69
+External,World GDP N,W_NGDP,Collect,USD,WDI,2020,85912761035231.23
+External,World GDP N,W_NGDP,Collect,USD,WDI,2021,98140475264975.78
+External,World GDP N,W_NGDP,Collect,USD,WDI,2022,102251524725531.34
+External,World GDP N,W_NGDP,Collect,USD,WDI,2023,106741647821063.98
+External,World GDP N,W_NGDP,Collect,USD,WDI,2024,110982661180013.44
+External,World GDP R,W_RGDP,Collect,USD,WDI,1990,35945880219087.11
+External,World GDP R,W_RGDP,Collect,USD,WDI,1991,36390873910981.29
+External,World GDP R,W_RGDP,Collect,USD,WDI,1992,37149005453487.664
+External,World GDP R,W_RGDP,Collect,USD,WDI,1993,37851113313325.45
+External,World GDP R,W_RGDP,Collect,USD,WDI,1994,39135896985992.01
+External,World GDP R,W_RGDP,Collect,USD,WDI,1995,40374390922535.39
+External,World GDP R,W_RGDP,Collect,USD,WDI,1996,41824891712125.02
+External,World GDP R,W_RGDP,Collect,USD,WDI,1997,43483502334138.336
+External,World GDP R,W_RGDP,Collect,USD,WDI,1998,44715003412067.11
+External,World GDP R,W_RGDP,Collect,USD,WDI,1999,46315964796815.195
+External,World GDP R,W_RGDP,Collect,USD,WDI,2000,48425685628052.234
+External,World GDP R,W_RGDP,Collect,USD,WDI,2001,49412868939567.59
+External,World GDP R,W_RGDP,Collect,USD,WDI,2002,50554835407744.37
+External,World GDP R,W_RGDP,Collect,USD,WDI,2003,52118918453371.34
+External,World GDP R,W_RGDP,Collect,USD,WDI,2004,54465231584489.7
+External,World GDP R,W_RGDP,Collect,USD,WDI,2005,56673544164731.875
+External,World GDP R,W_RGDP,Collect,USD,WDI,2006,59210348113404.47
+External,World GDP R,W_RGDP,Collect,USD,WDI,2007,61823800945165.39
+External,World GDP R,W_RGDP,Collect,USD,WDI,2008,63117398807667.05
+External,World GDP R,W_RGDP,Collect,USD,WDI,2009,62285101784074.805
+External,World GDP R,W_RGDP,Collect,USD,WDI,2010,65103029475797.81
+External,World GDP R,W_RGDP,Collect,USD,WDI,2011,67276821813552.29
+External,World GDP R,W_RGDP,Collect,USD,WDI,2012,69114292959206.67
+External,World GDP R,W_RGDP,Collect,USD,WDI,2013,71110411922590.16
+External,World GDP R,W_RGDP,Collect,USD,WDI,2014,73338313563659.03
+External,World GDP R,W_RGDP,Collect,USD,WDI,2015,75621913961646.12
+External,World GDP R,W_RGDP,Collect,USD,WDI,2016,77734481755129.28
+External,World GDP R,W_RGDP,Collect,USD,WDI,2017,80417743987091.39
+External,World GDP R,W_RGDP,Collect,USD,WDI,2018,83050587362222.73
+External,World GDP R,W_RGDP,Collect,USD,WDI,2019,85275610244218.06
+External,World GDP R,W_RGDP,Collect,USD,WDI,2020,82803280050477.73
+External,World GDP R,W_RGDP,Collect,USD,WDI,2021,88113743893149.95
+External,World GDP R,W_RGDP,Collect,USD,WDI,2022,91112302917180.77
+External,World GDP R,W_RGDP,Collect,USD,WDI,2023,93798835497645.27
+External,World GDP R,W_RGDP,Collect,USD,WDI,2024,96492690817960.55
+Monetary,Broad money,M2,Collect,USD,CBS,1990,
+Monetary,Broad money,M2,Collect,USD,CBS,1991,
+Monetary,Broad money,M2,Collect,USD,CBS,1992,
+Monetary,Broad money,M2,Collect,USD,CBS,1993,
+Monetary,Broad money,M2,Collect,USD,CBS,1994,
+Monetary,Broad money,M2,Collect,USD,CBS,1995,
+Monetary,Broad money,M2,Collect,USD,CBS,1996,
+Monetary,Broad money,M2,Collect,USD,CBS,1997,
+Monetary,Broad money,M2,Collect,USD,CBS,1998,
+Monetary,Broad money,M2,Collect,USD,CBS,1999,
+Monetary,Broad money,M2,Collect,USD,CBS,2000,
+Monetary,Broad money,M2,Collect,USD,CBS,2001,
+Monetary,Broad money,M2,Collect,USD,CBS,2002,
+Monetary,Broad money,M2,Collect,USD,CBS,2003,
+Monetary,Broad money,M2,Collect,USD,CBS,2004,
+Monetary,Broad money,M2,Collect,USD,CBS,2005,
+Monetary,Broad money,M2,Collect,USD,CBS,2006,
+Monetary,Broad money,M2,Collect,USD,CBS,2007,
+Monetary,Broad money,M2,Collect,USD,CBS,2008,
+Monetary,Broad money,M2,Collect,USD,CBS,2009,
+Monetary,Broad money,M2,Collect,USD,CBS,2010,
+Monetary,Broad money,M2,Collect,USD,CBS,2011,
+Monetary,Broad money,M2,Collect,USD,CBS,2012,
+Monetary,Broad money,M2,Collect,USD,CBS,2013,
+Monetary,Broad money,M2,Collect,USD,CBS,2014,
+Monetary,Broad money,M2,Collect,USD,CBS,2015,
+Monetary,Broad money,M2,Collect,USD,CBS,2016,
+Monetary,Broad money,M2,Collect,USD,CBS,2017,
+Monetary,Broad money,M2,Collect,USD,CBS,2018,332387805.27
+Monetary,Broad money,M2,Collect,USD,CBS,2019,430117725.01
+Monetary,Broad money,M2,Collect,USD,CBS,2020,667193243.9799999
+Monetary,Broad money,M2,Collect,USD,CBS,2021,948080247.34
+Monetary,Broad money,M2,Collect,USD,CBS,2022,1165963684.95
+Monetary,Broad money,M2,Collect,USD,CBS,2023,1437311251.78
+Monetary,Broad money,M2,Collect,USD,CBS,2024,1666389914.8245487
+Monetary,Narrow money,M1,Collect,USD,N/A,1990,
+Monetary,Narrow money,M1,Collect,USD,N/A,1991,
+Monetary,Narrow money,M1,Collect,USD,N/A,1992,
+Monetary,Narrow money,M1,Collect,USD,N/A,1993,
+Monetary,Narrow money,M1,Collect,USD,N/A,1994,
+Monetary,Narrow money,M1,Collect,USD,N/A,1995,
+Monetary,Narrow money,M1,Collect,USD,N/A,1996,
+Monetary,Narrow money,M1,Collect,USD,N/A,1997,
+Monetary,Narrow money,M1,Collect,USD,N/A,1998,
+Monetary,Narrow money,M1,Collect,USD,N/A,1999,
+Monetary,Narrow money,M1,Collect,USD,N/A,2000,
+Monetary,Narrow money,M1,Collect,USD,N/A,2001,
+Monetary,Narrow money,M1,Collect,USD,N/A,2002,
+Monetary,Narrow money,M1,Collect,USD,N/A,2003,
+Monetary,Narrow money,M1,Collect,USD,N/A,2004,
+Monetary,Narrow money,M1,Collect,USD,N/A,2005,
+Monetary,Narrow money,M1,Collect,USD,N/A,2006,
+Monetary,Narrow money,M1,Collect,USD,N/A,2007,
+Monetary,Narrow money,M1,Collect,USD,N/A,2008,
+Monetary,Narrow money,M1,Collect,USD,N/A,2009,
+Monetary,Narrow money,M1,Collect,USD,N/A,2010,
+Monetary,Narrow money,M1,Collect,USD,N/A,2011,
+Monetary,Narrow money,M1,Collect,USD,N/A,2012,
+Monetary,Narrow money,M1,Collect,USD,N/A,2013,
+Monetary,Narrow money,M1,Collect,USD,N/A,2014,
+Monetary,Narrow money,M1,Collect,USD,N/A,2015,
+Monetary,Narrow money,M1,Collect,USD,N/A,2016,
+Monetary,Narrow money,M1,Collect,USD,N/A,2017,
+Monetary,Narrow money,M1,Collect,USD,N/A,2018,0
+Monetary,Narrow money,M1,Collect,USD,N/A,2019,0
+Monetary,Narrow money,M1,Collect,USD,N/A,2020,0
+Monetary,Narrow money,M1,Collect,USD,N/A,2021,0
+Monetary,Narrow money,M1,Collect,USD,N/A,2022,0
+Monetary,Narrow money,M1,Collect,USD,N/A,2023,0
+Monetary,Narrow money,M1,Collect,USD,N/A,2024,0
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1990,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1991,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1992,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1993,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1994,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1995,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1996,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1997,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1998,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,1999,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2000,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2001,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2002,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2003,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2004,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2005,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2006,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2007,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2008,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2009,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2010,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2011,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2012,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2013,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2014,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2015,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2016,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2017,
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2018,0
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2019,0
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2020,0
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2021,0
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2022,0
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2023,0
+Monetary,Reserve money,RMONEY,Collect,USD,N/A,2024,0
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1990,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1991,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1992,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1993,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1994,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1995,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1996,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1997,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1998,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,1999,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2000,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2001,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2002,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2003,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2004,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2005,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2006,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2007,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2008,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2009,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2010,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2011,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2012,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2013,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2014,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2015,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2016,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2017,
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2018,0
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2019,0
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2020,0
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2021,0
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2022,0
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2023,0
+Monetary,Currency outside banks,CURR,Collect,USD,N/A,2024,0
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1990,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1991,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1992,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1993,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1994,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1995,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1996,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1997,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1998,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,1999,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2000,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2001,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2002,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2003,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2004,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2005,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2006,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2007,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2008,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2009,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2010,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2011,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2012,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2013,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2014,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2015,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2016,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2017,
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2018,332387805.27
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2019,430117725.01
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2020,667193243.9799999
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2021,948080247.3399999
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2022,1164266607.9699998
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2023,1430907612.81
+Monetary,Demand deposits,DEM_DEP,Collect,USD,CBS,2024,1651438513.074549
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1990,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1991,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1992,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1993,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1994,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1995,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1996,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1997,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1998,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,1999,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2000,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2001,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2002,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2003,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2004,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2005,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2006,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2007,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2008,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2009,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2010,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2011,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2012,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2013,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2014,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2015,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2016,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2017,
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2018,0
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2019,0
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2020,0
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2021,0
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2022,0
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2023,0
+Monetary,Time deposits,TIME_DEP,Collect,USD,CBS,2024,0
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1990,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1991,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1992,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1993,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1994,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1995,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1996,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1997,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1998,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,1999,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2000,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2001,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2002,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2003,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2004,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2005,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2006,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2007,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2008,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2009,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2010,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2011,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2012,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2013,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2014,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2015,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2016,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2017,
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2018,332387805.27
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2019,430117725.01
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2020,667193243.9799999
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2021,948080247.3399999
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2022,1164266607.9699998
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2023,1430907612.81
+Monetary,Total deposits,TOT_DEP,Collect,USD,CBS,2024,1651438513.074549
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1990,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1991,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1992,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1993,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1994,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1995,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1996,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1997,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1998,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,1999,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2000,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2001,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2002,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2003,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2004,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2005,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2006,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2007,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2008,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2009,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2010,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2011,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2012,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2013,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2014,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2015,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2016,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2017,
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2018,161431295.56
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2019,155628874.51
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2020,145772233.603
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2021,222701061.35
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2022,293351391.42
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2023,404026430.9804999
+Monetary,Credit to private sector,PSC,Collect,USD,CBS,2024,472648326.60074353
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1990,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1991,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1992,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1993,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1994,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1995,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1996,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1997,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1998,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,1999,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2000,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2001,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2002,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2003,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2004,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2005,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2006,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2007,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2008,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2009,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2010,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2011,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2012,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2013,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2014,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2015,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2016,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2017,
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2018,0
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2019,0
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2020,0
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2021,0
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2022,0
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2023,0
+Monetary,Credit to government,CGOV,Collect,USD,N/A,2024,0
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1990,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1991,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1992,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1993,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1994,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1995,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1996,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1997,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1998,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,1999,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2000,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2001,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2002,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2003,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2004,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2005,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2006,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2007,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2008,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2009,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2010,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2011,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2012,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2013,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2014,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2015,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2016,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2017,
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2018,98513018.28892994
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2019,148605538.58516878
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2020,107815436.81814381
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2021,394554312.02374667
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2022,494680495.16184
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2023,968205771.41172
+Monetary,Net foreign assets,NFA,Collect,USD,CBS,2024,1179011107.4488492
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1990,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1991,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1992,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1993,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1994,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1995,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1996,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1997,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1998,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,1999,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2000,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2001,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2002,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2003,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2004,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2005,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2006,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2007,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2008,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2009,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2010,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2011,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2012,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2013,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2014,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2015,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2016,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2017,
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2018,233874787.06876454
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2019,281512188.4620238
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2020,559378516.591522
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2021,553525936.2021265
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2022,671283191.7630001
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2023,469105481.31133515
+Monetary,Net domestic assets,NDA,Collect,USD,CBS,2024,487444940.95240104
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1990,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1991,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1992,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1993,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1994,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1995,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1996,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1997,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1998,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,1999,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2000,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2001,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2002,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2003,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2004,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2005,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2006,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2007,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2008,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2009,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2010,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2011,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2012,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2013,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2014,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2015,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2016,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2017,
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2018,132745114.6599455
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2019,130933824.9253926
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2020,527947384.2596658
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2021,639308100.1458732
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2022,690474908.72484
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2023,474988539.86921275
+Monetary,Net domestic credit,NDC,Collect,USD,CBS,2024,584150429.3232106
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1990,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1991,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1992,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1993,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1994,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1995,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1996,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1997,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1998,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,1999,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2000,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2001,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2002,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2003,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2004,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2005,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2006,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2007,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2008,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2009,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2010,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2011,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2012,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2013,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2014,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2015,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2016,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2017,
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2018,-52832963.55329
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2019,-78117278.07
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2020,301750167.35999995
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2021,315717898.02
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2022,290158642.45
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2023,-83703361.07
+Monetary,Net claims on government,NCGOV,Collect,USD,CBS,2024,-101919867.56
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1990,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1991,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1992,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1993,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1994,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1995,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1996,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1997,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1998,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,1999,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2000,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2001,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2002,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2003,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2004,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2005,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2006,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2007,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2008,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2009,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2010,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2011,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2012,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2013,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2014,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2015,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2016,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2017,
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2018,184918891.10937876
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2019,208415609.44558954
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2020,225601971.86890435
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2021,322680826.61012894
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2022,399118397.835194
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2023,555272808.2560508
+Monetary,Net claims on private sector,NCPS,Collect,USD,CBS,2024,649925437.5632106
+Monetary,Other items net,OIN,Collect,USD,CBS,1990,
+Monetary,Other items net,OIN,Collect,USD,CBS,1991,
+Monetary,Other items net,OIN,Collect,USD,CBS,1992,
+Monetary,Other items net,OIN,Collect,USD,CBS,1993,
+Monetary,Other items net,OIN,Collect,USD,CBS,1994,
+Monetary,Other items net,OIN,Collect,USD,CBS,1995,
+Monetary,Other items net,OIN,Collect,USD,CBS,1996,
+Monetary,Other items net,OIN,Collect,USD,CBS,1997,
+Monetary,Other items net,OIN,Collect,USD,CBS,1998,
+Monetary,Other items net,OIN,Collect,USD,CBS,1999,
+Monetary,Other items net,OIN,Collect,USD,CBS,2000,
+Monetary,Other items net,OIN,Collect,USD,CBS,2001,
+Monetary,Other items net,OIN,Collect,USD,CBS,2002,
+Monetary,Other items net,OIN,Collect,USD,CBS,2003,
+Monetary,Other items net,OIN,Collect,USD,CBS,2004,
+Monetary,Other items net,OIN,Collect,USD,CBS,2005,
+Monetary,Other items net,OIN,Collect,USD,CBS,2006,
+Monetary,Other items net,OIN,Collect,USD,CBS,2007,
+Monetary,Other items net,OIN,Collect,USD,CBS,2008,
+Monetary,Other items net,OIN,Collect,USD,CBS,2009,
+Monetary,Other items net,OIN,Collect,USD,CBS,2010,
+Monetary,Other items net,OIN,Collect,USD,CBS,2011,
+Monetary,Other items net,OIN,Collect,USD,CBS,2012,
+Monetary,Other items net,OIN,Collect,USD,CBS,2013,
+Monetary,Other items net,OIN,Collect,USD,CBS,2014,
+Monetary,Other items net,OIN,Collect,USD,CBS,2015,
+Monetary,Other items net,OIN,Collect,USD,CBS,2016,
+Monetary,Other items net,OIN,Collect,USD,CBS,2017,
+Monetary,Other items net,OIN,Collect,USD,CBS,2018,101129672.40881902
+Monetary,Other items net,OIN,Collect,USD,CBS,2019,150578363.53663117
+Monetary,Other items net,OIN,Collect,USD,CBS,2020,31431132.331856135
+Monetary,Other items net,OIN,Collect,USD,CBS,2021,-85782163.94374664
+Monetary,Other items net,OIN,Collect,USD,CBS,2022,-19191716.961839914
+Monetary,Other items net,OIN,Collect,USD,CBS,2023,-5883058.557877575
+Monetary,Other items net,OIN,Collect,USD,CBS,2024,-96705488.37080953
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1990,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1991,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1992,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1993,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1994,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1995,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1996,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1997,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1998,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,1999,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2000,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2001,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2002,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2003,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2004,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2005,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2006,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2007,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2008,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2009,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2010,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2011,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2012,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2013,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2014,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2015,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2016,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2017,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2018,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2019,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2020,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2021,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2022,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2023,
+Monetary,Policy rate,POLICY_RATE,Collect,%,N/A,2024,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1990,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1991,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1992,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1993,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1994,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1995,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1996,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1997,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1998,
+Monetary,Interbank rate,IBR,Collect,%,N/A,1999,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2000,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2001,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2002,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2003,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2004,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2005,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2006,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2007,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2008,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2009,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2010,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2011,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2012,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2013,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2014,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2015,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2016,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2017,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2018,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2019,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2020,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2021,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2022,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2023,
+Monetary,Interbank rate,IBR,Collect,%,N/A,2024,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1990,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1991,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1992,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1993,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1994,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1995,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1996,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1997,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1998,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,1999,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2000,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2001,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2002,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2003,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2004,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2005,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2006,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2007,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2008,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2009,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2010,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2011,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2012,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2013,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2014,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2015,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2016,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2017,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2018,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2019,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2020,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2021,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2022,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2023,
+Monetary,Lending rate,LEND_RATE,Collect,%,N/A,2024,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1990,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1991,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1992,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1993,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1994,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1995,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1996,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1997,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1998,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,1999,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2000,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2001,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2002,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2003,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2004,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2005,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2006,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2007,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2008,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2009,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2010,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2011,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2012,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2013,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2014,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2015,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2016,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2017,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2018,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2019,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2020,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2021,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2022,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2023,
+Monetary,Deposit rate,DEP_RATE,Collect,%,N/A,2024,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1990,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1991,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1992,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1993,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1994,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1995,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1996,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1997,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1998,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,1999,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2000,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2001,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2002,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2003,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2004,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2005,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2006,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2007,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2008,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2009,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2010,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2011,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2012,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2013,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2014,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2015,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2016,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2017,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2018,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2019,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2020,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2021,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2022,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2023,
+Monetary,Broad money growth,M2_G,Compute,%,N/A,2024,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1990,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1991,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1992,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1993,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1994,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1995,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1996,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1997,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1998,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,1999,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2000,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2001,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2002,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2003,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2004,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2005,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2006,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2007,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2008,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2009,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2010,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2011,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2012,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2013,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2014,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2015,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2016,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2017,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2018,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2019,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2020,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2021,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2022,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2023,
+Monetary,Private credit growth,PSC_G,Compute,%,N/A,2024,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1990,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1991,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1992,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1993,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1994,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1995,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1996,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1997,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1998,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,1999,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2000,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2001,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2002,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2003,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2004,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2005,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2006,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2007,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2008,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2009,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2010,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2011,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2012,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2013,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2014,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2015,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2016,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2017,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2018,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2019,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2020,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2021,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2022,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2023,
+Monetary,Real private sector credit,RPSC,Compute,Constant prices,N/A,2024,
