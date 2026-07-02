@@ -3,18 +3,6 @@
 solver.py
 
 Recursive macro-consistency solver for the CBS Somalia macro model.
-
-Purpose
--------
-A scenario shock should not change one variable only. It must propagate
-through the model system:
-
-Real sector -> External sector -> Fiscal sector -> Monetary sector
-            -> GDP reconciliation and macro framework outputs.
-
-The solver applies scenario assumptions once, solves the blocks in an
-economic sequence, and then re-links key identities. This is deliberately
-transparent and stable for a low-data environment.
 """
 
 from __future__ import annotations
@@ -27,6 +15,7 @@ from external_sector import forecast_external_sector
 from fiscal_sector import forecast_fiscal_sector
 from monetary_sector import forecast_monetary_sector
 from reconciliation import build_gdp_reconciliation, build_nominal_gdp_output
+from config import FORECAST_START_YEAR, FORECAST_END_YEAR
 
 
 def _recompute_real_identities(real: pd.DataFrame) -> pd.DataFrame:
@@ -62,43 +51,34 @@ def solve_macro_model(
     scenario: str = "baseline",
     custom_shock: ScenarioShock | None = None,
     max_iter: int = 2,
+    start_year: int = FORECAST_START_YEAR,
+    end_year: int = FORECAST_END_YEAR,
 ) -> dict:
     """
     Solve the integrated macro model.
 
-    Parameters
-    ----------
-    wide:
-        Historical source data in wide format.
-    scenario:
-        baseline, optimistic, pessimistic or custom.
-    custom_shock:
-        Optional custom shock from the Streamlit scenario page.
-    max_iter:
-        Small number of block-link iterations. This is not a nonlinear
-        optimizer; it is a transparent recursive consistency pass.
-
-    Returns
-    -------
-    dict of model outputs.
+    v6: start_year and end_year are now passed in by main.py, allowing
+    automatic forecast start after the latest actual year.
     """
-    assumptions = build_assumptions(wide, scenario=scenario, custom_shock=custom_shock)
+    assumptions = build_assumptions(
+        wide,
+        scenario=scenario,
+        custom_shock=custom_shock,
+        start_year=start_year,
+        end_year=end_year,
+    )
     forecast_years = list(assumptions.index)
 
-    # First pass
     real = forecast_real_sector(wide, assumptions)
     external = forecast_external_sector(wide, assumptions)
-    real = _link_external_to_real(real, external, forecast_years)
+    # Keep national-accounts NXGS/NMGS in the real-sector GDP identity.
+    # The external block can differ from national accounts because BOP trade and
+    # expenditure-side trade are not always the same source series.
+    # Do not overwrite real-sector trade with BOP trade here.
 
-    # Recursive consistency passes.
-    # The fiscal and monetary blocks use the linked real/external outputs.
     for _ in range(max_iter):
         fiscal = forecast_fiscal_sector(wide, assumptions, real, external)
         monetary = forecast_monetary_sector(wide, real, assumptions)
-
-        # At this model stage, fiscal does not feed back into GDP directly.
-        # The loop is kept for the future extension where G or fiscal impulse
-        # can affect aggregate demand.
         real = _recompute_real_identities(real)
 
     gdp_reconciliation = build_gdp_reconciliation(real)

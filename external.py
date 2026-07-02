@@ -8,6 +8,15 @@ from external_sector import external_sector_insights
 from utils import kpi_cards, line_chart, policy_insight_box, fmt_money, fmt_pct
 
 
+def _safe_ratio(num, den):
+    try:
+        if den is None or den == 0:
+            return None
+        return num / den
+    except Exception:
+        return None
+
+
 def render_external_page(results=None):
     if results is None:
         results = run_model("baseline")
@@ -15,6 +24,17 @@ def render_external_page(results=None):
     real = results["Real_Sector"]
 
     st.header("External Sector Block")
+    validation = results.get("Model_Validation")
+    if validation is not None:
+        external_flags = validation[
+            validation["check"].str.contains("Current account|Trade balance|External", case=False, na=False)
+            & validation["status"].isin(["ERROR", "WATCH"])
+        ]
+        if not external_flags.empty:
+            st.warning("External-sector validation flags exist. Review diagnostics before using the ratios.")
+            with st.expander("External validation flags"):
+                st.dataframe(external_flags, use_container_width=True)
+
     min_year, max_year = int(external.index.min()), int(external.index.max())
     start, end = st.slider("External year range", min_year, max_year, (max(min_year, 1990), max_year))
 
@@ -23,8 +43,8 @@ def render_external_page(results=None):
     kpi_cards([
         ("Exports G&S", fmt_money(external.loc[latest, "Exports_GS"]), ""),
         ("Imports G&S", fmt_money(external.loc[latest, "Imports_GS"]), ""),
-        ("Trade balance/GDP", fmt_pct(external.loc[latest, "Trade_balance"] / ngdp) if ngdp else "n/a", ""),
-        ("Current account/GDP", fmt_pct(external.loc[latest, "CAB"] / ngdp) if ngdp and "CAB" in external else "n/a", ""),
+        ("Trade balance/GDP", fmt_pct(_safe_ratio(external.loc[latest, "Trade_balance"], ngdp)) if ngdp else "n/a", ""),
+        ("Current account/GDP", fmt_pct(_safe_ratio(external.loc[latest, "CAB"], ngdp)) if ngdp and "CAB" in external else "n/a", ""),
     ])
 
     tab1, tab2, tab3, tab4 = st.tabs(["Overview", "Trade", "Balances", "Policy Insights"])

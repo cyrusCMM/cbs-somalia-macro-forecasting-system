@@ -2,6 +2,13 @@
 """
 assumptions.py
 Scenario assumptions for baseline, optimistic, pessimistic and custom runs.
+
+v8 validation-gate update
+-------------------------
+The model now uses robust recent-growth assumptions instead of mechanically
+projecting extreme revision-year growth rates. This preserves the forecasting
+logic but prevents one-off statistical revisions from producing explosive
+exports, imports or current account paths.
 """
 
 from dataclasses import dataclass
@@ -26,12 +33,41 @@ class ScenarioShock:
     expenditure_pressure_add: float = 0.0
 
 
-def _recent_avg_growth(s: pd.Series, periods: int = 3, fallback: float = 0.05) -> float:
+def _clip(v: float, lo: float = -0.30, hi: float = 0.50) -> float:
+    return float(np.clip(0.0 if pd.isna(v) else v, lo, hi))
+
+
+def _recent_avg_growth(
+    s: pd.Series,
+    periods: int = 5,
+    fallback: float = 0.05,
+    lo: float = -0.15,
+    hi: float = 0.20,
+    method: str = "median",
+) -> float:
+    """
+    Robust recent growth estimator.
+
+    Uses median by default because annual source revisions can create
+    one-off jumps that should not be projected mechanically for 10 years.
+    """
     s = s.dropna().astype(float)
     if len(s) < 2:
         return fallback
+
     g = s.pct_change().replace([np.inf, -np.inf], np.nan).dropna()
-    return fallback if g.empty else float(g.tail(periods).mean())
+    if g.empty:
+        return fallback
+
+    g = g.tail(periods)
+    if method == "mean":
+        val = float(g.mean())
+    else:
+        val = float(g.median())
+
+    if pd.isna(val):
+        val = fallback
+    return _clip(val, lo, hi)
 
 
 def _recent_ratio(num: pd.Series, den: pd.Series, periods: int = 3, fallback: float = 0.0) -> float:
@@ -42,39 +78,46 @@ def _recent_ratio(num: pd.Series, den: pd.Series, periods: int = 3, fallback: fl
     return fallback if r.empty else float(r.tail(periods).mean())
 
 
-def _clip(v: float, lo: float = -0.30, hi: float = 0.50) -> float:
-    return float(np.clip(0.0 if pd.isna(v) else v, lo, hi))
+def _get(wide: pd.DataFrame, code: str) -> pd.Series:
+    return wide[code] if code in wide.columns else pd.Series(dtype=float)
 
 
-def build_baseline_assumptions(wide: pd.DataFrame, start_year: int = FORECAST_START_YEAR, end_year: int = FORECAST_END_YEAR) -> pd.DataFrame:
+def build_baseline_assumptions(
+    wide: pd.DataFrame,
+    start_year: int = FORECAST_START_YEAR,
+    end_year: int = FORECAST_END_YEAR,
+) -> pd.DataFrame:
     years = list(range(start_year, end_year + 1))
     a = pd.DataFrame(index=years)
     a.index.name = "Year"
-    get = lambda code: wide[code] if code in wide.columns else pd.Series(dtype=float)
+    get = lambda code: _get(wide, code)
 
-    a["RGDP_growth"] = _clip(_recent_avg_growth(get("RGDP"), fallback=0.035))
-    a["NGDP_growth"] = _clip(_recent_avg_growth(get("NGDP"), fallback=0.065))
-    a["Inflation"] = _clip(_recent_avg_growth(get("CPI_AVG"), fallback=0.045), -0.10, 0.30)
+    # Real and nominal activity.
+    a["RGDP_growth"] = _recent_avg_growth(get("RGDP"), fallback=0.035, lo=-0.05, hi=0.08)
+    a["NGDP_growth"] = _recent_avg_growth(get("NGDP"), fallback=0.065, lo=-0.05, hi=0.12)
+    a["Inflation"] = _recent_avg_growth(get("CPI_AVG"), fallback=0.045, lo=-0.05, hi=0.15)
 
-    a["NPC_growth"] = _clip(_recent_avg_growth(get("NPC"), fallback=0.08))
-    a["NGC_growth"] = _clip(_recent_avg_growth(get("NGC"), fallback=0.06))
-    a["NINV_growth"] = _clip(_recent_avg_growth(get("NINV"), fallback=0.08))
-    a["NXGS_growth"] = _clip(_recent_avg_growth(get("NXGS"), fallback=0.10), -0.50, 0.80)
-    a["NMGS_growth"] = _clip(_recent_avg_growth(get("NMGS"), fallback=0.10), -0.50, 0.80)
+    # National accounts expenditure components.
+    a["NPC_growth"] = _recent_avg_growth(get("NPC"), fallback=0.08, lo=-0.05, hi=0.12)
+    a["NGC_growth"] = _recent_avg_growth(get("NGC"), fallback=0.06, lo=-0.05, hi=0.15)
+    a["NINV_growth"] = _recent_avg_growth(get("NINV"), fallback=0.08, lo=-0.10, hi=0.15)
+    a["NXGS_growth"] = _recent_avg_growth(get("NXGS"), fallback=0.08, lo=-0.10, hi=0.15)
+    a["NMGS_growth"] = _recent_avg_growth(get("NMGS"), fallback=0.08, lo=-0.10, hi=0.15)
 
-    a["X_GOODS_growth"] = _clip(_recent_avg_growth(get("X_GOODS"), fallback=0.10), -0.50, 0.80)
-    a["M_GOODS_growth"] = _clip(_recent_avg_growth(get("M_GOODS"), fallback=0.10), -0.50, 0.80)
-    a["X_SERV_growth"] = _clip(_recent_avg_growth(get("X_SERV"), fallback=0.10), -0.50, 0.80)
-    a["M_SERV_growth"] = _clip(_recent_avg_growth(get("M_SERV").abs(), fallback=0.05), -0.50, 0.80)
+    # External/BOP components. Use robust caps to prevent revision-year spikes.
+    a["X_GOODS_growth"] = _recent_avg_growth(get("X_GOODS"), fallback=0.06, lo=-0.10, hi=0.10)
+    a["M_GOODS_growth"] = _recent_avg_growth(get("M_GOODS"), fallback=0.06, lo=-0.10, hi=0.10)
+    a["X_SERV_growth"] = _recent_avg_growth(get("X_SERV"), fallback=0.06, lo=-0.10, hi=0.10)
+    a["M_SERV_growth"] = _recent_avg_growth(get("M_SERV").abs(), fallback=0.06, lo=-0.10, hi=0.10)
 
-    a["NER_AVG_growth"] = _clip(_recent_avg_growth(get("NER_AVG"), fallback=0.03), -0.30, 0.50)
-    a["PM_growth"] = _clip(_recent_avg_growth(get("PM"), fallback=0.03), -0.30, 0.50)
-    a["PX_growth"] = _clip(_recent_avg_growth(get("PX"), fallback=0.03), -0.30, 0.50)
+    a["NER_AVG_growth"] = _recent_avg_growth(get("NER_AVG"), fallback=0.03, lo=-0.10, hi=0.15)
+    a["PM_growth"] = _recent_avg_growth(get("PM"), fallback=0.03, lo=-0.10, hi=0.15)
+    a["PX_growth"] = _recent_avg_growth(get("PX"), fallback=0.03, lo=-0.10, hi=0.15)
 
-    a["Primary_income_credit_growth"] = _clip(_recent_avg_growth(get("PRI_INC_CR"), fallback=0.05), -0.50, 0.80)
-    a["Primary_income_debit_growth"] = _clip(_recent_avg_growth(get("PRI_INC_DB").abs(), fallback=0.05), -0.50, 0.80)
-    a["Secondary_income_credit_growth"] = _clip(_recent_avg_growth(get("SEC_INC_CR"), fallback=0.05), -0.50, 0.80)
-    a["Secondary_income_debit_growth"] = _clip(_recent_avg_growth(get("SEC_INC_DB").abs(), fallback=0.05), -0.50, 0.80)
+    a["Primary_income_credit_growth"] = _recent_avg_growth(get("PRI_INC_CR"), fallback=0.05, lo=-0.10, hi=0.10)
+    a["Primary_income_debit_growth"] = _recent_avg_growth(get("PRI_INC_DB").abs(), fallback=0.05, lo=-0.10, hi=0.10)
+    a["Secondary_income_credit_growth"] = _recent_avg_growth(get("SEC_INC_CR"), fallback=0.05, lo=-0.10, hi=0.12)
+    a["Secondary_income_debit_growth"] = _recent_avg_growth(get("SEC_INC_DB").abs(), fallback=0.05, lo=-0.10, hi=0.12)
 
     ngdp = get("NGDP")
     a["Grants_GDP_ratio"] = _recent_ratio(get("GRANTS"), ngdp, fallback=0.04)
@@ -84,6 +127,7 @@ def build_baseline_assumptions(wide: pd.DataFrame, start_year: int = FORECAST_ST
     a["Capex_GDP_ratio"] = _recent_ratio(get("CAPEX"), ngdp, fallback=0.002)
     a["OtherExp_GDP_ratio"] = _recent_ratio(get("OTHER_EXP"), ngdp, fallback=0.001)
 
+    # Fiscal buoyancies remain explicit model parameters.
     a["Customs_buoyancy"] = 0.70
     a["VAT_buoyancy"] = 1.00
     a["IncomeTax_buoyancy"] = 1.20
@@ -132,5 +176,11 @@ def apply_scenario(baseline: pd.DataFrame, scenario: str = "baseline", custom_sh
     return out
 
 
-def build_assumptions(wide: pd.DataFrame, scenario: str = "baseline", start_year: int = FORECAST_START_YEAR, end_year: int = FORECAST_END_YEAR, custom_shock: Optional[ScenarioShock] = None) -> pd.DataFrame:
+def build_assumptions(
+    wide: pd.DataFrame,
+    scenario: str = "baseline",
+    start_year: int = FORECAST_START_YEAR,
+    end_year: int = FORECAST_END_YEAR,
+    custom_shock: Optional[ScenarioShock] = None,
+) -> pd.DataFrame:
     return apply_scenario(build_baseline_assumptions(wide, start_year, end_year), scenario, custom_shock)

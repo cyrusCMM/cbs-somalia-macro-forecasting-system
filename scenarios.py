@@ -11,7 +11,7 @@ from config import CURRENCY_SCALE
 from macro_output import build_key_indicators
 
 
-def render_scenarios_page():
+def render_scenarios_page(uploaded_files=None):
     st.header("Scenario Analysis")
     st.caption("Apply simultaneous component-level macro shocks and trace the impact across real, external, fiscal and monetary blocks.")
 
@@ -109,10 +109,22 @@ def render_scenarios_page():
     if st.button("Run component shock scenario"):
         shock = build_scenario_shock(bundle)
 
-        baseline = run_model("baseline")
-        custom = run_model("custom", custom_shock=shock)
+        baseline = run_model("baseline", uploaded_files=uploaded_files)
+        custom = run_model("custom", custom_shock=shock, uploaded_files=uploaded_files)
 
-        st.success("Scenario solved. Component shocks have been transmitted across the linked macro blocks.")
+        
+        if not baseline.get("Validation_Passed", False):
+            st.error("Baseline validation failed. Review baseline diagnostics before interpreting scenario results.")
+            st.dataframe(baseline["Model_Validation"], use_container_width=True)
+            st.stop()
+
+        if not custom.get("Validation_Passed", False):
+            st.error("Scenario validation failed. Review diagnostics before interpreting scenario results.")
+            st.dataframe(custom["Model_Validation"], use_container_width=True)
+            st.stop()
+
+        st.success("Scenario solved and validated. Component shocks have been transmitted across the linked macro blocks.")
+
 
         tab1, tab2, tab3, tab4, tab5 = st.tabs([
             "Real transmission",

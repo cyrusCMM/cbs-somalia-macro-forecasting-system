@@ -14,6 +14,17 @@ def render_fiscal_page(results=None):
     fiscal = results["Fiscal_Sector"]
 
     st.header("Fiscal Sector Block")
+    validation = results.get("Model_Validation")
+    if validation is not None:
+        fiscal_flags = validation[
+            validation["check"].str.contains("Fiscal|Debt|Revenue|Expenditure", case=False, na=False)
+            & validation["status"].isin(["ERROR", "WATCH"])
+        ]
+        if not fiscal_flags.empty:
+            st.warning("Fiscal-sector validation flags exist. Review diagnostics before using the fiscal results.")
+            with st.expander("Fiscal validation flags"):
+                st.dataframe(fiscal_flags, use_container_width=True)
+
     min_year, max_year = int(fiscal.index.min()), int(fiscal.index.max())
     start, end = st.slider("Fiscal year range", min_year, max_year, (min_year, max_year))
 

@@ -12,6 +12,11 @@ def render_reports_page(results=None):
     if results is None:
         results = run_model("baseline")
 
+    validation = results.get("Model_Validation")
+    if validation is not None:
+        st.subheader("Model validation")
+        st.dataframe(validation, use_container_width=True)
+
     if st.button("Generate Excel output and dashboard PNGs"):
         path = export_outputs(results)
         make_dashboard_charts(results)
@@ -33,8 +38,30 @@ def render_reports_page(results=None):
         "text/csv",
     )
     st.download_button(
+        "Download model validation CSV",
+        results["Model_Validation"].to_csv(index=False).encode("utf-8"),
+        "model_validation.csv",
+        "text/csv",
+    )
+    st.download_button(
         "Download GDP reconciliation CSV",
         results["GDP_Reconciliation"].to_csv().encode("utf-8"),
         "GDP_Reconciliation.csv",
         "text/csv",
     )
+
+    if "Source_Wide" in results:
+        st.download_button(
+            "Download active source wide CSV",
+            results["Source_Wide"].to_csv().encode("utf-8"),
+            "active_source_wide.csv",
+            "text/csv",
+        )
+
+    if "Data_Checks" in results:
+        st.download_button(
+            "Download data checks CSV",
+            results["Data_Checks"].to_csv(index=False).encode("utf-8"),
+            "data_checks.csv",
+            "text/csv",
+        )

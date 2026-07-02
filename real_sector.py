@@ -2,9 +2,20 @@
 """
 real_sector.py
 Real sector forecast and presentation helpers.
+
+v8 validation-gate update
+-------------------------
+For forecast years, nominal GDP is reconciled to the expenditure identity.
+This preserves the demand-side model logic and prevents the statistical
+discrepancy from becoming a residual that explodes over the forecast period.
+
+Historical years keep official NGDP and the observed statistical discrepancy.
+Forecast years use the latest observed SD/GDP ratio as the reconciliation
+target, usually close to zero after the SNBS update.
 """
 
 import pandas as pd
+import numpy as np
 
 
 def _extend_series(wide: pd.DataFrame, code: str, growth_col: str, assumptions: pd.DataFrame) -> pd.Series:
@@ -14,8 +25,24 @@ def _extend_series(wide: pd.DataFrame, code: str, growth_col: str, assumptions: 
     return s.sort_index()
 
 
+def _latest_sd_ratio(wide: pd.DataFrame) -> float:
+    required = ["NGDP", "NPC", "NGC", "NINV", "NXGS", "NMGS"]
+    if not all(c in wide.columns for c in required):
+        return 0.0
+    df = wide[required].dropna()
+    if df.empty:
+        return 0.0
+    exp_gdp = df["NPC"] + df["NGC"] + df["NINV"] + df["NXGS"] - df["NMGS"]
+    sd_ratio = ((df["NGDP"] - exp_gdp) / df["NGDP"]).replace([np.inf, -np.inf], np.nan).dropna()
+    if sd_ratio.empty:
+        return 0.0
+    # Use latest actual, but keep it inside a narrow technical band.
+    return float(np.clip(sd_ratio.iloc[-1], -0.02, 0.02))
+
+
 def forecast_real_sector(wide: pd.DataFrame, assumptions: pd.DataFrame) -> pd.DataFrame:
     out = pd.DataFrame(index=sorted(set(wide.index).union(assumptions.index)))
+
     for code, growth in [
         ("NGDP", "NGDP_growth"), ("RGDP", "RGDP_growth"), ("NPC", "NPC_growth"),
         ("NGC", "NGC_growth"), ("NINV", "NINV_growth"), ("NXGS", "NXGS_growth"),
@@ -26,10 +53,20 @@ def forecast_real_sector(wide: pd.DataFrame, assumptions: pd.DataFrame) -> pd.Da
 
     if "NPC" in out and "NGC" in out:
         out["Final_consumption"] = out["NPC"] + out["NGC"]
+
     if all(c in out for c in ["Final_consumption", "NINV", "NXGS", "NMGS"]):
         out["Absorption"] = out["Final_consumption"] + out["NINV"]
         out["Expenditure_GDP_before_SD"] = out["Final_consumption"] + out["NINV"] + out["NXGS"] - out["NMGS"]
+
+    # Reconcile nominal GDP in forecast years to the expenditure identity.
     if all(c in out for c in ["NGDP", "Expenditure_GDP_before_SD"]):
+        target_sd_ratio = _latest_sd_ratio(wide)
+        for year in assumptions.index:
+            year = int(year)
+            exp_value = out.loc[year, "Expenditure_GDP_before_SD"]
+            if pd.notna(exp_value):
+                out.loc[year, "NGDP"] = exp_value / (1.0 - target_sd_ratio)
+
         out["Statistical_discrepancy"] = out["NGDP"] - out["Expenditure_GDP_before_SD"]
         out["Statistical_discrepancy_pct_GDP"] = out["Statistical_discrepancy"] / out["NGDP"]
 

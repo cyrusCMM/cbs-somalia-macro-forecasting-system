@@ -27,7 +27,7 @@ def export_outputs(results: dict, output_dir: Path = OUTPUT_DIR) -> Path:
         for name in [
             "Assumptions", "Real_Sector", "External_Sector",
             "Fiscal_Sector", "Monetary_Sector", "GDP_Reconciliation",
-            "Nominal_GDP_Output", "Data_Checks"
+            "Nominal_GDP_Output", "Data_Checks", "Model_Validation", "Executive_Indicators"
         ]:
             obj = results.get(name)
             if isinstance(obj, pd.DataFrame):

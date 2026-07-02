@@ -101,6 +101,9 @@ def build_macro_framework(results: dict, scale_to_millions: bool = True) -> pd.D
 
 def build_key_indicators(results: dict) -> pd.DataFrame:
     """Compact executive indicators table."""
+    if "Executive_Indicators" in results:
+        out = results["Executive_Indicators"].copy()
+        return out
     framework = build_macro_framework(results)
     keep = [
         "Nominal GDP",
