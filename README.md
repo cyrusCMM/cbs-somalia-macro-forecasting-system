@@ -111,3 +111,10 @@ Forecasts are generated in Python.
 - Added revision log comparing uploaded data against default app data.
 - Reports page can download active source data and data checks.
 - The app refreshes model results when the active data source changes.
+
+
+## v10 hotfix
+
+- Fixed repeated uploaded-file reads in Streamlit.
+- Added file rewind before every `pd.read_csv()` / `pd.read_excel()` call.
+- Prevents `pandas.errors.EmptyDataError` after uploading data, changing pages, or running scenarios.

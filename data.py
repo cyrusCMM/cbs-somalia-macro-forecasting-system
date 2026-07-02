@@ -49,7 +49,20 @@ def _buffer_uploaded_file(uploaded_file):
     data = uploaded_file.getvalue()
     bio = io.BytesIO(data)
     bio.name = uploaded_file.name
+    bio.seek(0)
     return bio
+
+
+def _rewind_uploaded_files(uploaded_files):
+    """Reset stored BytesIO objects before each model/data-loader call."""
+    if not uploaded_files:
+        return uploaded_files
+    for obj in uploaded_files.values():
+        try:
+            obj.seek(0)
+        except Exception:
+            pass
+    return uploaded_files
 
 
 def _set_uploaded_workbook(workbook):
@@ -129,6 +142,7 @@ def _build_revision_log(default_wide: pd.DataFrame, uploaded_wide: pd.DataFrame)
 
 def _validate_uploaded(uploaded_files):
     default_data = load_source_data()
+    uploaded_files = _rewind_uploaded_files(uploaded_files)
     uploaded_data = load_source_data(uploaded_files=uploaded_files)
     revision_log = _build_revision_log(default_data["wide"], uploaded_data["wide"])
     return uploaded_data, revision_log
@@ -216,6 +230,7 @@ def render_data_page():
     st.subheader("3. Active data checks")
     uploaded_files = get_active_uploaded_files()
     try:
+        uploaded_files = _rewind_uploaded_files(uploaded_files)
         data = load_source_data(uploaded_files=uploaded_files)
     except Exception as e:
         st.error(f"Active data failed to load: {e}")

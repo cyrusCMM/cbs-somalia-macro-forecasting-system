@@ -56,6 +56,21 @@ EXCEL_SHEETS = {
     "Monetary": "Monetary_Data",
 }
 
+def _rewind_file(uploaded_file: Any) -> Any:
+    """
+    Ensure uploaded file-like objects can be read repeatedly.
+
+    Streamlit reruns the script after button clicks and page changes. Pandas
+    consumes file-like objects, so repeated calls to pd.read_csv/read_excel can
+    otherwise see an empty stream and raise pandas.errors.EmptyDataError.
+    """
+    try:
+        uploaded_file.seek(0)
+    except Exception:
+        pass
+    return uploaded_file
+
+
 
 def _normalise_columns(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
@@ -109,12 +124,14 @@ def read_block_csv(path: Path, block_name: str) -> pd.DataFrame:
 
 
 def read_uploaded_csv(uploaded_file: Any, block_name: str) -> pd.DataFrame:
+    uploaded_file = _rewind_file(uploaded_file)
     df = pd.read_csv(uploaded_file)
     return _to_long(df, block_name, getattr(uploaded_file, "name", block_name))
 
 
 def read_uploaded_excel(uploaded_file: Any) -> pd.DataFrame:
     frames = []
+    uploaded_file = _rewind_file(uploaded_file)
     xl = pd.ExcelFile(uploaded_file)
     available = set(xl.sheet_names)
 
@@ -154,7 +171,7 @@ def _combine_uploaded_blocks(uploaded_files: Dict[str, Any]) -> pd.DataFrame:
         if block not in uploaded_files or uploaded_files[block] is None:
             missing.append(block)
         else:
-            frames.append(read_uploaded_csv(uploaded_files[block], block))
+            frames.append(read_uploaded_csv(_rewind_file(uploaded_files[block]), block))
 
     if missing:
         raise ValueError(f"Missing uploaded CSV file(s) for block(s): {missing}")
